@@ -12,7 +12,7 @@ Early detection can transform the lives of individuals with autism, improving th
 Autism Spectrum Disorder (ASD) is a neurodevelopmental disorder affecting various abilities. Early diagnosis is challenging but essential for timely intervention.
 
 # Proposed Approach:
-Utilizing a dataset from Kaggle, we employ machine learning models (Naïve Bayes, SVM, Logistic Regression, Random Forest, XGBoost) to identify autism traits in toddlers. The data includes screening test results, age, gender, and health conditions.
+Utilizing a dataset from Cambridge hospitals, we employ machine learning models (Naïve Bayes, SVM, Logistic Regression, Random Forest, XGBoost) to identify autism traits in toddlers. The data includes screening test results, age, gender, and health conditions.
 
 # Implementation Steps:
 Exploratory Analysis: Analyze key features using SHAP and data visualization techniques.
