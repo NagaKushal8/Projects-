@@ -1,6 +1,6 @@
-Zomato Restaurants Data-analysis--PowerBI
+# Zomato Restaurants Data-analysis using PowerBI
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-About Dataset : 
+# About Dataset : 
 
 This Dataset has been taken from kaggle.This dataset contains list of restaurants and its attributes over different places in india. 
 Dataset contains the following attributes of the restaurants :
@@ -23,7 +23,7 @@ Votes
 Average_Cost_for_two
 Rating
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-About Dashboard
+# About Dashboard
 
 The Dashboard Displays the following attributes:
 Countries 
