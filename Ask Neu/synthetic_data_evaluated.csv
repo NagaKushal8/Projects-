@@ -1,0 +1,771 @@
+,question,ground_truth,question_complexity,llm_only_response,llm_rag_response,hybrid_llm_rag_response,Relevancy_l,Accuracy_l,Completeness_l,Clarity_l,Conciseness_l,Relevancy_lr,Accuracy_lr,Completeness_lr,Clarity_lr,Conciseness_lr,Relevancy_hlr,Accuracy_hlr,Completeness_hlr,Clarity_hlr,Conciseness_hlr,rouge_l,rouge_lr,rouge_hlr
+0,What are some examples of closely related courses in mathematics and physics?,"Some examples of closely related courses in mathematics and physics are statistical mechanics and stochastic processes, mechanics and dynamical systems, thermodynamics and Fourier Series.",simple,"1. Calculus and Mechanics: Calculus is a fundamental mathematical tool used in physics to analyze motion, forces, and energy.
+
+2. Linear Algebra and Quantum Mechanics: Linear algebra is essential for understanding the mathematical formalism of quantum mechanics, which describes the behavior of particles at the smallest scales.
+
+3. Differential Equations and Electromagnetism: Differential equations are used to model and solve complex systems in physics, such as electromagnetic fields and wave propagation.
+
+4. Complex Analysis and Fluid Dynamics: Complex analysis provides powerful tools for studying fluid flow and turbulence in physics, particularly in the field of fluid dynamics.
+
+5. Probability and Statistical Mechanics: Probability theory is used in statistical mechanics to describe the behavior of large systems of particles, such as gases and liquids.
+
+6. Numerical Analysis and Computational Physics: Numerical methods are used to solve complex mathematical and physical problems that cannot be solved analytically, such as simulating the behavior of physical systems.
+
+7. Group Theory and Particle Physics: Group theory is used in particle physics to describe the symmetries and interactions of subatomic particles.
+
+8. Topology and Field Theory: Topology is used in field theory to study the properties of fields and their interactions in physics, such as in the theory of relativity.","Some examples of closely related courses in mathematics and physics include statistical mechanics and stochastic processes, mechanics and dynamical systems, thermodynamics and Fourier Series, and quantum mechanics and partial differential equations. These courses combine physics and mathematics to provide a comprehensive understanding of the interconnected nature of the two disciplines.","Some examples of closely related courses in mathematics and physics include statistical mechanics and stochastic processes, mechanics and dynamical systems, thermodynamics and Fourier Series, and quantum mechanics and partial differential equations. Additionally, the two departments jointly offer a course in mathematical methods in physics.",9.5,9,9.5,8.5,7,9.5,8,9,9,8,9.5,9,9,9.5,8,0.079024996,0.608858859,0.663101604
+1,What is the minimum number of credit hours required for the PHIL capstone course?,The minimum number of credit hours required for the PHIL capstone course is 4.,reasoning,"The minimum number of credit hours required for the PHIL capstone course varies depending on the institution and program. Typically, a capstone course in philosophy may require 3-4 credit hours. It is important to check with your specific program or academic advisor for the exact credit hour requirements for the PHIL capstone course.",The minimum number of credit hours required for the PHIL capstone course is 4.,The minimum number of credit hours required for the PHIL capstone course is 4 hours.,5,4,6,7.5,4,10,10,10,10,10,10,10,10,10,10,0.375816993,1,0.964665815
+2,What is José Buscaglia's position at Northeastern University?,"José Buscaglia's position at Northeastern University is Professor in the department of Cultures, Societies, and Global Studies.",simple,"José Buscaglia is an Associate Professor in the Department of Cultures, Societies, and Global Studies at Northeastern University.",José Buscaglia's position at Northeastern University is not provided in the context information available. It is recommended to consult the appropriate university resources or contact the university directly to inquire about José Buscaglia's position.,"José Buscaglia is a Professor in the Cultures, Societies, and Global Studies department at Northeastern University.",9,5,7,9,8.5,2,0,1,6.5,7,10,10,10,10,10,0.772331155,0.349477683,0.697303922
+3,What is the total number of credit hours required for the Year 3 Fall semester at Northeastern University?,The total number of credit hours required for the Year 3 Fall semester at Northeastern University is 19.,reasoning,"The total number of credit hours required for the Year 3 Fall semester at Northeastern University varies depending on the student's program and course load. Typically, undergraduate students at Northeastern University take between 12-18 credit hours per semester. It is recommended to check with the specific program or academic advisor for the exact credit hour requirements for the Year 3 Fall semester.","For the Year 3 Fall semester at Northeastern University, a total of 0 credit hours are required.","In Year 3 Fall semester at Northeastern University, a total of 0 credit hours are required based on the provided context information.",3,2,4,6,3,3,0,2,5,8,2,1,2,5,7,0.401422764,0.61991342,0.456140351
+4,What courses are related to the topic of Natural Resources and Sustainable Development?,"The courses related to the topic of Natural Resources and Sustainable Development are INTL 2464 Natural Resources and Sustainable Development, AFRS 2464 Natural Resources and Sustainable Development Asia.",multi-context,"1. Environmental Science
+2. Sustainable Development
+3. Natural Resource Management
+4. Conservation Biology
+5. Renewable Energy
+6. Environmental Economics
+7. Environmental Policy
+8. Ecology
+9. Climate Change and Adaptation
+10. Water Resource Management","1. LARC 5220: Sustainable Landscape Practices - This course focuses on ecotechnologies operating in the built environment, covering topics such as green roofs, green walls, bioswales, and water detention methods.
+2. CED 6120: Environmental Economics - Analyzes the efficient allocation of environmental resources and the impact on commerce and economic development, including global warming and habitat protection.
+3. CED 6130: Sustainable Economic Development - Addresses the economics of balancing development and environmental impacts, exploring challenges and strategies in both developed and developing economies.
+4. INTL 7986: Research - Offers students an opportunity to conduct full-time research under faculty supervision, focusing on global environmental governance and sustainable development diplomacy.","Courses related to the topic of Natural Resources and Sustainable Development at Northeastern University include:
+
+1. ENVR 3150 - Food Security and Sustainability
+2. ENVR 3200 - Water Resources
+3. ENVR 5210 - Environmental Planning
+4. ENVR 5350 - Sustainable Energy and Climate Solutions
+5. ENVR 5800 - Climate Adaptation and Nature-Based Solutions
+6. INTL 2464 - Natural Resources and Sustainable Development
+7. INTL 5100 - Climate and Development
+8. PPUA 5268 - International Environmental Policy
+
+These courses cover a range of topics related to natural resources, sustainability, environmental planning, and climate solutions within the context of sustainable development.",7,5,6,8.5,7.5,4,6,7,8.5,6,8,8.5,9,8.5,7.5,0.153746411,0.165643115,0.368455744
+5,What is bioengineering?,"Bioengineering is the application of engineering principles and techniques in a biological context, such as the human body, an ecosystem, or a bioreactor. It involves designing and implementing devices and instruments that interact with biological systems, considering the unique constraints and challenges that arise from this interface.",simple,"Bioengineering is a field that combines principles of biology and engineering to develop solutions for various medical and biological challenges. It involves the application of engineering principles and techniques to living organisms and biological systems in order to design and create new products, processes, and technologies that can improve human health and quality of life. Bioengineers work on a wide range of projects, such as developing artificial organs, designing medical devices, creating new drug delivery systems, and improving agricultural practices.","Bioengineering is a field of study that involves the application of engineering principles and techniques to biological systems and medical technologies. It encompasses a wide range of topics such as biomechanics, biofluids, and mechanobiology, focusing on the intersection of engineering and biology to solve complex problems in healthcare, biotechnology, and other related areas.","Bioengineering is a field that involves engineering in a biological context, such as the human body, ecosystems, or bioreactors. It focuses on designing, implementing, and creating devices, instruments, or implants that interface with biological systems. Bioengineering requires a multidisciplinary approach that considers mechanical, electrical, chemical, and materials properties of biological systems. It is a relatively new field that offers job opportunities in developing new products, instrumentation, and implants with a significant impact on human health. Bioengineering programs provide rigorous education, research opportunities, and specialized concentrations in areas such as biomechanics, biomedical devices, bioimaging, cell and tissue engineering, and systems, synthetic, and computational bioengineering.",9,9,8.5,9,7,9,8.5,8,9,7.5,9,9,8.5,9,7.5,0.294887139,0.327891156,0.32966967
+6,"How does the PT 5138 course integrate the anatomy of the brain, brain stem, and spinal cord with the basic physiology of motor and somatosensory systems?","The PT 5138 course integrates the anatomy of the brain, brain stem, and spinal cord with the basic physiology of motor and somatosensory systems by studying them in specimens and on slides.",reasoning,"The PT 5138 course integrates the anatomy of the brain, brain stem, and spinal cord with the basic physiology of motor and somatosensory systems by providing a comprehensive understanding of how these structures work together to control movement and sensation in the body. 
+
+Students in the course learn about the different regions of the brain and their functions, including the motor cortex, somatosensory cortex, and brainstem nuclei. They also study the pathways that connect these regions to the spinal cord, allowing for the transmission of signals between the brain and the rest of the body.
+
+In addition, students learn about the basic physiology of motor and somatosensory systems, including how neurons communicate with each other to control movement and sensation. They also study the role of neurotransmitters, receptors, and other molecules in regulating these processes.
+
+By integrating the anatomy of the brain, brain stem, and spinal cord with the physiology of motor and somatosensory systems, students in the PT 5138 course gain a deep understanding of how these structures work together to control movement and sensation in the body. This knowledge is essential for physical therapists to effectively assess and treat patients with neurological conditions or injuries.","The PT 5138 course at Northeastern University covers the structure and physiological function of the human nervous system with an emphasis on the clinical aspects of motor and somatosensory systems. It integrates the anatomy of the brain, brain stem, and spinal cord by studying them in specimens and on slides, and then integrates this anatomical knowledge with the basic physiology of motor and sensory systems. This integration allows students to understand how the structure of the nervous system relates to its function in controlling movement and sensation in the human body.","The PT 5138 course at Northeastern University covers the structure and physiological function of the human nervous system, with a focus on integrating the anatomy of the brain, brain stem, and spinal cord with the basic physiology of motor and somatosensory systems. Students study the anatomy of these structures in specimens and on slides, which is then integrated with the basic physiology of motor and sensory systems. The application of neuroscience to clinical neurological cases is a foundational aspect of this course, allowing students to understand the clinical aspects of motor and somatosensory systems.",9,9,9.5,8.5,7,9.5,9,9.5,9,8.5,9.5,9,8.5,9,7,0.233512238,0.463213062,0.457245264
+7,What are the focal points in ecology and evolutionary biology for the combined major in data science and ecology and evolutionary biology?,"The focal points in ecology and evolutionary biology for the combined major in data science and ecology and evolutionary biology are population, community, and ecosystem ecology; evolution; and genetics.",multi-context,"Some focal points in ecology and evolutionary biology for the combined major in data science and ecology and evolutionary biology may include:
+
+1. Population dynamics and modeling: Using data science techniques to analyze and model population dynamics, including factors such as birth rates, death rates, and migration patterns.
+
+2. Phylogenetics and evolutionary relationships: Using data science tools to analyze genetic data and infer evolutionary relationships among species.
+
+3. Community ecology: Using data science techniques to study interactions among species within ecological communities, such as competition, predation, and mutualism.
+
+4. Conservation biology: Using data science to assess the impact of human activities on biodiversity and develop strategies for conservation and restoration.
+
+5. Spatial ecology: Using data science tools to analyze spatial patterns in ecological systems, such as habitat fragmentation, species distributions, and movement patterns.
+
+6. Climate change ecology: Using data science to study the effects of climate change on ecosystems and species, and develop strategies for adaptation and mitigation.
+
+7. Behavioral ecology: Using data science techniques to study animal behavior and the ecological and evolutionary factors that shape it.
+
+Overall, the combined major in data science and ecology and evolutionary biology can provide students with a strong foundation in both fields, allowing them to apply data science techniques to address complex ecological and evolutionary questions.","The focal points in ecology and evolutionary biology for the combined major in data science and ecology and evolutionary biology include population, community, and ecosystem ecology; evolutionary ecology and biology; conservation biology; population genetics; behavior; and ecological and evolutionary genomics.","The focal points in ecology and evolutionary biology for the combined major in data science and ecology and evolutionary biology include population, community, and ecosystem ecology; evolutionary ecology and biology; conservation biology; population genetics; behavior; and ecological and evolutionary genomics. These areas provide a strong foundation in the fundamentals of ecology and evolutionary biology, allowing students to study the collection, manipulation, storage, retrieval, and computational analysis of data in various forms.",9,8.5,9.5,8,6,9,7,8,9,6,9.5,7,8.5,9,6,0.192453711,0.750594852,0.516462585
+8,What is the focus of IE 5617 Lean Concepts and Applications course?,The focus of the IE 5617 Lean Concepts and Applications course is to teach the fundamentals of lean thinking and how to apply this knowledge to practical problems.,simple,"The focus of IE 5617 Lean Concepts and Applications course is on understanding and applying lean principles and tools to improve processes, reduce waste, and increase efficiency in various industries. Students will learn about the history and principles of lean manufacturing, as well as how to identify and eliminate waste in processes. The course will also cover topics such as value stream mapping, 5S, kanban, and continuous improvement. Students will have the opportunity to apply these concepts through case studies and hands-on projects.","IE 5617 Lean Concepts and Applications course focuses on the fundamentals of lean thinking and how to apply this knowledge to practical problems. Lean thinking is essential for organizations aiming to stay competitive in global markets by making process changes to eliminate waste, shorten product delivery time, improve product quality, curtail costs, and enhance customer satisfaction. The course offers students the opportunity to learn concepts, process improvement tools, implementation methods, and best practices for lean workforce development through active learning exercises, simulations, and case studies from various disciplines. Students will also learn how lean principles are applied in manufacturing and non-traditional areas like knowledge work and healthcare systems.","The focus of the IE 5617 Lean Concepts and Applications course is to cover the fundamentals of lean thinking and how to apply this knowledge to practical problems. Lean thinking is essential for organizations looking to stay competitive in global markets by making process changes to eliminate waste, shorten product delivery time, improve product quality, reduce costs, and enhance customer satisfaction. The course offers students the opportunity to learn concepts, process improvement tools, implementation methods, and best practices for lean workforce development through active learning exercises, simulations, and case studies from various disciplines.",9,9,9,9.5,7,10,10,10,9,7.5,10,10,9,9.5,7,0.30487013,0.317671443,0.437576684
+9,"Why is Northeastern University committed to the health, safety, and security of its students and all other members of the university community?","Northeastern University is committed to the health, safety, and security of its students and all other members of the university community because it is a global institution and its members undertake university travel around the world in pursuit of teaching and learning.",reasoning,"Northeastern University is committed to the health, safety, and security of its students and all other members of the university community because it recognizes that a safe and secure environment is essential for academic success and personal well-being. The university believes that all individuals have the right to learn, work, and live in an environment free from harm, discrimination, and violence. By prioritizing the health, safety, and security of its community members, Northeastern University aims to create a supportive and inclusive campus culture where everyone can thrive and reach their full potential. Additionally, the university is dedicated to upholding legal and ethical responsibilities to protect the well-being of its students and staff, and to foster a sense of trust and respect among all members of the community.","Northeastern University is committed to the health, safety, and security of its students and all other members of the university community as part of its ethical standards and principles. This commitment is reflected in the university's policies, which emphasize conducting all endeavors with the highest ethical standards, integrity, and compliance with legal and regulatory requirements. The university expects all members of the community to adhere to these principles, and failure to comply with university policies may result in various actions or sanctions to ensure a safe and secure environment for everyone involved.","Northeastern University is committed to the health, safety, and security of its students and all other members of the university community because as a global institution, university members undertake travel around the world for teaching, research, consulting, service, cocurricular activities, and work intended to advance learning and the interests of the university. This commitment is designed to reduce personal and university risk and ensure the well-being of all individuals involved in university activities.",8,7.5,9,8.5,7,8,7.5,7,8.5,6,9.5,9,9.5,9.5,8,0.340196316,0.38667038,0.577434967
+10,What are the course options for the BA in Linguistics and English program?,"The course options for the BA in Linguistics and English program include: 
+- ENGL 2455 American Women Writers 
+- ENGL 2760 Writing in Global Contexts 
+- ENGL 3678 Bedrooms and Battlefields: Hebrew Bible and the Origins of Sex, Gender, and Ethnicity 
+- ENGL 3685 Modern and Contemporary Jewish Literature 
+- JWSS 3685 Modern and Contemporary Jewish Literature 
+- Pre-Nineteenth-Century Literature",multi-context,"The course options for a BA in Linguistics and English program may vary depending on the specific university or college offering the program. However, some common course options that students may encounter in this program include:
+
+1. Introduction to Linguistics
+2. Introduction to English Language and Literature
+3. Phonetics and Phonology
+4. Syntax and Semantics
+5. Sociolinguistics
+6. Psycholinguistics
+7. Language Acquisition
+8. History of the English Language
+9. World Englishes
+10. Discourse Analysis
+11. Language and Gender
+12. Language and Power
+13. Stylistics
+14. Literary Theory
+15. Creative Writing
+
+These are just a few examples of the course options that may be available in a BA in Linguistics and English program. Students should consult with their academic advisor or program coordinator to learn more about the specific course offerings at their institution.","The course options for the BA in Linguistics and English program are as follows:
+
+1. Linguistics Requirements:
+   - LING 1150 Introduction to Language and Linguistics (4 hours)
+   - LING 2350 Linguistic Analysis (4 hours)
+   - LING 3412 Language and Culture (4 hours)
+   - LING 3442 Sociolinguistics (4 hours)
+   - Linguistic Structure: Complete three of the following (12 hours):
+     - LING 3420 Phonetics
+     - LING 3422 Phonology
+     - LING 3424 Morphology
+     - LING 3450 Syntax
+     - LING 3452 Semantics
+   - Linguistics Electives: Complete two courses not used to fulfill other major requirements (8 hours):
+     - LING 3000 to LING 4999
+     - DEAF 2700 ASL Linguistics
+
+2. English Requirements:
+   - Foundational Courses:
+     - ENGL 1160 Introduction to Rhetoric or ENGL 1410 Introduction to Research on Writing (4 hours)
+     - ENGL 1400 Introduction to Literary Studies (4 hours)
+   - Diversity: Complete one of the following (4 hours):
+     - ENGL 2150 Literature and Digital Diversity
+     - ENGL 2296 Early African-American Literature
+
+These are the required courses for the BA in Linguistics and English program at Northeastern University.","The course options for the BA in Linguistics and English program include the following:
+
+1. Foundational Courses:
+- ENGL 1160 Introduction to Rhetoric or ENGL 1410 Introduction to Research on Writing
+- ENGL 1400 Introduction to Literary Studies
+
+2. Diversity:
+- Complete one of the following:
+  - ENGL 2150 Literature and Digital Diversity
+  - ENGL 2296 Early African-American Literature
+
+3. Writing:
+- Complete one of the following:
+  - ENGL 2700 Creative Writing
+  - ENGL 2710 Style and Editing
+  - ENGL 2740 Writing and Community Engagement
+  - ENGL 2760 Writing in Global Contexts
+  - ENGL 2770 Writing to Heal
+  - ENGL 2780 Visual Writing
+  - ENGL 2850 Writing for Social Media: Theory and Practice
+  - ENGL 3375 Writing Boston
+  - ENGL 3376 Creative Nonfiction
+  - ENGL 3377 Poetry Workshop
+  - ENGL 3378 Fiction Workshop
+  - ENGL 3380 Writing Seminar
+  - ENGL 3384 The Writer’s Marketplace
+
+4. Electives:
+- Complete one additional ENGL elective at the 2000 level or higher.",6,3,5,7.5,4,5,5,6,7,6,6,6.5,8,7.5,5,0.173179036,0.177237579,0.245494074
+11,What is medical leave of absence?,"Medical leave of absence is an option available to Northeastern students who develop a major medical condition that prevents them from attending classes, completing requirements, and participating in co-op. It is a formal request that needs to be initiated at UHCS (University Health and Counseling Services).",simple,"A medical leave of absence is a period of time that an employee takes off from work due to a medical condition or illness. This leave is typically granted by an employer and may be covered under the Family and Medical Leave Act (FMLA) in the United States. During a medical leave of absence, the employee is usually not required to work and may be eligible for certain benefits such as continued health insurance coverage. The length of the leave and the specific requirements for taking medical leave may vary depending on the employer and local laws.","A medical leave of absence is time away from work to recover or recuperate from a serious health condition. It can be continuous if you are unable to work for more than five consecutive calendar days due to your condition, or intermittent if you need to take time off sporadically due to your condition. To qualify for a medical leave, the condition must meet specific criteria such as an overnight stay in a medical facility, multiple treatments by a healthcare provider within 30 days, or a treatment plan following a healthcare provider visit.","A medical leave of absence is time away from work to recover or recuperate from a serious health condition. It can be continuous if you are unable to work for more than five consecutive calendar days due to your condition, or intermittent if you need to take time off sporadically. To apply for a continuous leave, notify your manager, open a request in the HR Service Center, and have your healthcare provider complete a Certification of Serious Health Condition form. Benefit-eligible employees can take up to 26 weeks of job-protected leave, with a 1-week waiting period before paid leave benefits begin. Pay and job protection run together during the leave, and benefits like health and dental insurance continue as long as you receive pay from Northeastern. To return to work, provide a clearance note from your healthcare provider.",5,6,5.5,7,6,6,5,6,7.5,8,5,6,5.5,7,4,0.20409494,0.162249827,0.149164951
+12,"What is the minimum GPA required in all CS, CY, DS, and IS courses?","The minimum GPA required in all CS, CY, DS, and IS courses is 2.000.",reasoning,"The minimum GPA required in all CS, CY, DS, and IS courses is typically a 2.0 or higher. However, this may vary depending on the specific program or institution. It is important to check with your academic advisor or program requirements for the most accurate information.","The minimum GPA required in all CS, CY, DS, and IS courses is 3.000 or higher.","The minimum GPA required in all CS, CY, DS, and IS courses at Northeastern University is 2.000.",8,6,6,8.5,5,10,2,5,9,10,10,10,10,10,10,0.434408602,0.85,0.885630499
+13,"What courses are required for the Criminal Justice and Journalism, BS Plan of Study?","The required courses for the Criminal Justice and Journalism, BS Plan of Study are CRIM 1000 or JRNL 1000, JRNL 1101 and JRNL 1102, CRIM 1100, and ENGW 1111.",multi-context,"The required courses for the Criminal Justice and Journalism, BS Plan of Study may vary depending on the specific program and university. However, some common courses that may be included in this plan of study are:
+
+- Introduction to Criminal Justice
+- Media and Society
+- Reporting and Writing for Journalism
+- Criminal Law
+- Investigative Reporting
+- Criminology
+- Ethics in Journalism
+- Criminal Procedure
+- Multimedia Journalism
+- Research Methods in Criminal Justice
+- Digital Journalism
+- Corrections
+- Broadcast Journalism
+- Policing
+- Photojournalism
+- Criminal Justice Policy
+
+It is important to consult with an academic advisor or the specific program's curriculum to determine the exact courses required for the Criminal Justice and Journalism, BS Plan of Study.","The required courses for the Criminal Justice and Journalism, BS Plan of Study are as follows:
+
+1. Introduction to Criminal Justice
+   - CRIM 1100 Introduction to Criminal Justice (4 hours)
+   - CRIM 1110 Criminal Due Process (4 hours)
+   - CRIM 1120 Criminology (4 hours)
+
+2. Current Crime and Justice Issues
+   - Complete one of the following: CRIM 1300 The Death Penalty, CRIM 1400 Human Trafficking, CRIM 1500 Corruption, Integrity, and Accountability (4 hours)
+
+3. Crime Problems and Criminal Justice Institutions
+   - Complete one of the following: CRIM 2310 Courts: The Third Branch of Government, CRIM 2320 Youth Crime and Justice, CRIM 2330 Punishment in the Age of Mass Incarceration, CRIM 2340 Corporate Security: Securing the Private Sector, CRIM 2350 Policing a Democratic Society, CRIM 2370 Restorative Justice: Transforming the System, CRIM 3010 Criminal Violence, CRIM 3030 Global Criminology, CRIM 3040 Psychology of Crime, CRIM 3060 Political Crime and Terrorism, CRIM 3070 Corporate and White-Collar Crime (4 hours)
+
+4. Systemic Issues
+   - Complete one of the following: CRIM 3110 Gender, Crime, and Justice, CRIM 3120 Race, Crime, and Justice (4 hours)
+
+5. Criminal Justice Research Methods
+   - CRIM 3600 Criminal Justice Research Methods (4 hours)
+
+6. Analyzing and Using Data on Crime and Justice
+   - CRIM 3700 Analyzing and Using Data on Crime and Justice (4 hours)
+
+7. Senior Capstone Seminar
+   - CRIM 4949 Senior Capstone Seminar (4 hours)
+
+8. Criminal Justice Elective
+   - Complete one additional criminal justice elective from the 3000, 4000, or 5000 level (4 hours)","The courses required for the Criminal Justice and Journalism, BS Plan of Study are as follows:
+
+Criminal Justice Requirements:
+- CRIM 1100 Introduction to Criminal Justice (4 hours)
+- CRIM 1110 Criminal Due Process (4 hours)
+- CRIM 1120 Criminology (4 hours)
+- Complete one of the following Current Crime and Justice Issues courses (4 hours):
+  - CRIM 1300 The Death Penalty
+  - CRIM 1400 Human Trafficking
+  - CRIM 1500 Corruption, Integrity, and Accountability
+- Complete one of the following Crime Problems and Criminal Justice Institutions courses (4 hours):
+  - CRIM 2310 Courts: The Third Branch of Government
+  - CRIM 2320 Youth Crime and Justice
+  - CRIM 2330 Punishment in the Age of Mass Incarceration
+  - CRIM 2340 Corporate Security: Securing the Private Sector
+  - CRIM 2350 Policing a Democratic Society
+  - CRIM 2370 Restorative Justice: Transforming the System
+  - CRIM 3010 Criminal Violence
+  - CRIM 3030 Global Criminology
+  - CRIM 3040 Psychology of Crime
+  - CRIM 3060 Political Crime and Terrorism
+  - CRIM 3070 Corporate and White-Collar Crime
+- Complete one of the following Systemic Issues courses (4 hours):
+  - CRIM 3110 Gender, Crime, and Justice
+  - CRIM 3120 Race, Crime, and Justice
+
+Journalism Requirements:
+- JRNL 1150 Understanding Today’s News (4 hours)
+- JRNL 1101 and JRNL 1102 Journalism 1: Fundamentals of Reporting and Writing and Journalist’s Toolbox (5 hours)
+- JRNL 2201 Journalism 2: Intermediate Reporting (4 hours)
+- JRNL 2301 Visual Storytelling in Journalism (4 hours)
+- JRNL 3610 Digital Storytelling and Social Media (4 hours)
+- JRNL 4650 Ethics and Issues in Journalism (4 hours)
+- Complete three additional journalism courses (12 hours)
+
+Supporting Courses:
+- CRIM 1000 Criminal Justice at Northeastern or JRNL 1000 Journalism at Northeastern (1 hour)
+- Complete one of the following Computer or Data Science courses (4 hours):
+  - CS 1100 Computer Science and Its Applications
+  - DS 2000 and DS 2001 Programming with Data and Data Science Programming Practicum
+  - JRNL 3700 Data Storytelling
+
+Co-op Integration Requirements:
+- EESH 2000 Professional Development for Co-op or EEAM 2000 Professional Development for Co-op
+- CRIM 3000 Co-op Integration Seminar (2 hours)
+
+Integrative Requirements:
+- JRNL 3550 The First Amendment and the Media (4 hours)
+- CRIM 1700 Crime, Media, and Politics (4 hours)
+
+Total Program Requirement: 129 total semester hours required",4,3,5,6,4,3.5,3,3,6.5,4,4,2,5,6,3,0.22812587,0.129615082,0.120098315
+14,What is the focus area for the course HIST 1500?,The focus area for the course HIST 1500 is Modern Chinese History and Culture.,reasoning,"The focus area for the course HIST 1500 is typically introductory or survey-level history, covering a broad range of historical topics and themes. This course may cover various time periods, regions, and themes in history, providing students with a foundational understanding of key historical events and developments.",The course HIST 1500 focuses on Modern Chinese History and Culture.,The focus area for the course HIST 1500 is Modern Chinese History and Culture.,3,2,5,7,6,10,10,10,10,10,10,10,10,10,10,0.325448029,0.682898551,1
+15,What departments are involved in the interdisciplinary study of the behavioral neuroscience and design combined major?,"The interdisciplinary study of the behavioral neuroscience and design combined major involves the biology, psychology, and Art + Design departments.",multi-context,"The departments involved in the interdisciplinary study of the behavioral neuroscience and design combined major may include:
+
+1. Neuroscience
+2. Psychology
+3. Biology
+4. Cognitive Science
+5. Design
+6. Architecture
+7. Computer Science
+
+These departments may collaborate to offer courses and research opportunities that integrate principles from both behavioral neuroscience and design. Students in this combined major may have the opportunity to explore the intersection of these disciplines and gain a comprehensive understanding of how they can be applied together in various fields such as healthcare, technology, and education.","The interdisciplinary study of the behavioral neuroscience and design combined major involves the Biology, Psychology, and Art + Design departments at Northeastern University.","The interdisciplinary study of the behavioral neuroscience and design combined major involves the departments of biology, psychology, and Art + Design.",6.5,5,8,7.5,5.5,10,10,10,9,10,10,10,10,10,10,0.260423946,0.925578487,0.920766921
+16,What disciplines are combined in the computer science and physics combined major?,"The disciplines combined in the computer science and physics combined major are computer science, physics, and mathematics.",simple,"The computer science and physics combined major combines the disciplines of computer science and physics. This interdisciplinary program allows students to study the principles of both fields and explore the ways in which they intersect and complement each other. Students in this major may study topics such as computational physics, quantum computing, and scientific computing. By combining these two disciplines, students gain a unique perspective and skill set that can be applied to a wide range of career opportunities in fields such as research, technology, and engineering.","The computer science and physics combined major combines the disciplines of computer science, physics, and mathematics.","The computer science and physics combined major combines the disciplines of computer science, physics, and mathematics.",8,7,8,9,6,10,10,10,10,10,10,10,10,10,10,0.218954248,0.782013685,0.782013685
+17,What are the major CIP codes for the BA Media and Screen Studies and Journalism program?,The major CIP codes for the BA Media and Screen Studies and Journalism program are BA-MSJO.,reasoning,"The major CIP codes for the BA Media and Screen Studies and Journalism program are:
+
+1. Communication and Media Studies - CIP code: 09.0102
+2. Journalism - CIP code: 09.0401",The major CIP code for the BA Media and Screen Studies and Journalism program at Northeastern University is 090199.,The major CIP code for the BA Media and Screen Studies and Journalism program at Northeastern University is 090199.,8.5,7,6.5,9,7.5,8,3,4,7.5,6.5,8,4,4,7,6,0.632939322,0.773420479,0.773420479
+18,What is the maximum time allowed to complete all degree requirements at Northeastern University?,The maximum time allowed to complete all degree requirements at Northeastern University is seven years from matriculation.,multi-context,The maximum time allowed to complete all degree requirements at Northeastern University is typically 10 years.,"The maximum time allowed to complete all degree requirements at Northeastern University is seven years, unless an extension is granted by the relevant graduate office.",The maximum time allowed to complete all degree requirements at Northeastern University is seven years for both undergraduate and master's degree programs. Students must complete their degree requirements within this time frame to be eligible for graduation.,9,2,5,8,7,10,9.5,8,9,7,10,10,9,9.5,8,0.823721082,0.70952381,0.539736993
+19,How many total semester hours are required for the Communication Studies major?,133 total semester hours are required for the Communication Studies major.,simple,"The total semester hours required for the Communication Studies major vary depending on the specific program and institution. However, a typical Communication Studies major may require around 120 semester hours to complete.","For the Communication Studies major, a total of 128 semester hours are required.",The total semester hours required for the Communication Studies major is 133.,5,4,5,6,4,9,2,3,8,9,10,10,10,10,10,0.392890906,0.628787879,0.77294686
+20,What are some of the courses offered in the Northeastern University 2023-2024 Graduate Catalog?,"Some of the courses offered in the Northeastern University 2023-2024 Graduate Catalog include CHME 5179 Complex Fluids and Everyday Materials, CHME 5185 Design of Experiments and Ethical Research (DOEER), CHME 5631 Biomaterials Principles and Applications, CHME 5632 Advanced Topics in Biomaterials, CHME 5683 Introduction to Polymer Science, and CHME 7330 Chemical Engineering Thermodynamics.",reasoning,"1. Advanced Topics in Artificial Intelligence
+2. Biomedical Signal Processing
+3. Cybersecurity Policy and Governance
+4. Data Mining and Machine Learning
+5. Financial Engineering
+6. Global Supply Chain Management
+7. Healthcare Systems Engineering
+8. Information Visualization
+9. Leadership and Organizational Change
+10. Marketing Analytics
+11. Project Management
+12. Sustainable Energy Systems
+13. Urban Infrastructure Management
+14. Wireless Communication Systems
+
+These are just a few examples of the courses offered in the Northeastern University 2023-2024 Graduate Catalog.","Some of the courses offered in the Northeastern University 2023-2024 Graduate Catalog include:
+- Fundamentals of Computer Networking
+- Machine Learning
+- Deep Learning
+- Applied Cryptography
+- Network Security Practices
+- Cyberlaw: Privacy, Ethics, and Digital Rights
+- Machine Learning in Cybersecurity and Privacy
+- Network Security
+- Wireless and Mobile Systems Security
+- Enterprise Growth and Innovation
+- Competing in Dynamic, Innovation-Driven Markets
+- Innovation for Next-Generation Products and Systems
+- Emerging and Disruptive Technologies
+- Managing a Technology-Based Business
+- The Technical Entrepreneur as Leader
+- Introduction to Health Informatics and Health Information Systems
+- Theoretical Foundations in Personal Health Informatics
+- Personal Health Interface Design and Development
+- Evaluating Health Technologies
+- Introduction to Health Data Analytics
+- Health Informatics
+- Youth and Communication Technology
+- Introduction to Legal Studies 1: Law and Legal Reasoning
+- Introduction to Legal Studies 2
+- Data Regulation and Compliance
+- Identifying and Securing Intellectual Property Rights
+- Intellectual Property and Media
+- Law, Policy and Legal Argument
+- Intellectual Property
+- Law and Technology
+- Cities, Sustainability, and Climate Change
+- Big Data for Cities
+- Security and Resilience Policy
+- Resilient Cities
+- Cyberconflict","Some of the courses offered in the Northeastern University 2023-2024 Graduate Catalog include:
+1. Managing People and Organizations
+2. Creating an Innovative Organization
+3. Virtual, Vicious Teams: Building and Leading High-Performance Teams
+4. Great Companies
+5. Health Organization Management
+6. Power and Influence
+7. The Entrepreneurial Mindset of Leaders
+8. Special Topics in Electrical and Computer Engineering
+9. Urban Planning and Policy
+10. Urban Theory and Science
+11. Climate Policy and Justice",4,2,3,7,6,2,2,3,5,3,3,2,2,8,5,0.224944277,0.179997054,0.303240741
+21,What are the courses in the Data Analytics Engineering program that cover machine learning?,The courses in the Data Analytics Engineering program that cover machine learning are DS 5220 Supervised Machine Learning and Learning Theory and DS 5230 Unsupervised Machine Learning and Data Mining.,multi-context,"Some of the courses in the Data Analytics Engineering program that cover machine learning include:
+
+1. Introduction to Machine Learning
+2. Advanced Machine Learning
+3. Deep Learning
+4. Natural Language Processing
+5. Reinforcement Learning
+6. Data Mining and Machine Learning
+7. Big Data Analytics
+8. Predictive Analytics
+
+These courses provide students with a comprehensive understanding of machine learning techniques and algorithms, as well as practical experience in applying them to real-world data analysis problems.","In the Data Analytics Engineering program at Northeastern University, the courses that cover machine learning are:
+
+1. IE 6600 Computation and Visualization for Analytics
+2. IE 7275 Data Mining in Engineering
+3. IE 7280 Statistical Methods in Engineering
+
+These courses provide students with a strong foundation in machine learning techniques and algorithms for knowledge discovery within the field of data analytics engineering.","The courses in the Data Analytics Engineering program that cover machine learning are:
+
+1. DS 5220 - Supervised Machine Learning and Learning Theory
+2. DS 5230 - Unsupervised Machine Learning and Data Mining
+3. EECE 5644 - Introduction to Machine Learning and Pattern Recognition
+4. EECE 5645 - Parallel Processing for Data Analytics",5,3,6,7.5,4,2,2,4,6,5,9,5,7,8.5,5.5,0.350932347,0.342512077,0.72299852
+22,How does the combined major in data science and economics at Northeastern University integrate fundamental economics courses with a strong programming foundation?,"The combined major in data science and economics at Northeastern University integrates fundamental economics courses with a strong programming foundation by providing students with the opportunity to study the collection, manipulation, storage, retrieval, and computational analysis of data in its various forms. This allows students to gain a deep understanding of economic principles and theories while also developing strong programming skills necessary for data analysis and manipulation.",reasoning,"The combined major in data science and economics at Northeastern University integrates fundamental economics courses with a strong programming foundation by offering a curriculum that combines traditional economics coursework with hands-on programming and data analysis skills. 
+
+Students in this program will take core economics courses such as microeconomics, macroeconomics, econometrics, and economic theory, providing them with a solid foundation in economic principles and analysis. 
+
+In addition to these traditional economics courses, students will also take courses in programming languages such as Python, R, and SQL, as well as courses in data visualization, machine learning, and statistical analysis. These courses will provide students with the technical skills needed to analyze and interpret economic data, as well as the ability to create data-driven models and forecasts. 
+
+Furthermore, students in this program will have the opportunity to participate in co-op experiences and research projects that allow them to apply their knowledge and skills in real-world settings. This hands-on experience will further enhance their understanding of how data science and economics intersect and how they can be applied in a variety of industries and fields. 
+
+Overall, the combined major in data science and economics at Northeastern University provides students with a well-rounded education that combines the theoretical foundations of economics with the practical skills needed to succeed in the rapidly evolving field of data science.","The combined major in data science and economics at Northeastern University integrates fundamental economics courses with a strong programming foundation by providing students with a curriculum that includes the study of the collection, manipulation, storage, retrieval, and computational analysis of data in various forms. This includes numeric, textual, image, and video data from small to large volumes. By combining these skill sets, students are able to address complex issues in the behavior of individuals and the collective behavior of industries and governments. The program also includes specific courses in computer science and data science, such as programming with data, information presentation and visualization, large-scale information storage and retrieval, and machine learning and data mining, to further enhance students' abilities in both disciplines.","The combined major in Data Science and Economics at Northeastern University integrates fundamental economics courses with a strong programming foundation by providing students with a curriculum that includes the study of the collection, manipulation, storage, retrieval, and computational analysis of data in various forms. Students will develop skills in programming to address complex issues in the behavior of individuals and the collective behavior of industries and governments. The program includes courses in computer science, data science, and economics, allowing students to gain a comprehensive understanding of both disciplines and their integration.",9,9,8.5,9,7,10,9.5,9,8.5,7,9.5,10,9,9.5,8,0.270322741,0.471481896,0.592827004
+23,"What are the areas of expertise of Anna Sromek, Ermus St. Louis, Kristin Stankard, and Thomas Starr?","The areas of expertise of Anna Sromek, Ermus St. Louis, Kristin Stankard, and Thomas Starr are as follows:
+- Anna Sromek: Research Assistant Professor in the Center for Drug Discovery at the University of Illinois, Chicago, with a PhD.
+- Ermus St. Louis: Assistant Professor in Criminology and Criminal Justice at the University of Illinois, Chicago, with a PhD.
+- Kristin Stankard: Assistant Clinical Professor in Nursing at Palm Beach Atlantic University, with a DNP (Doctor of Nursing Practice).
+- Thomas Starr: Professor in Art + Design at Yale University. The specific area of expertise is not mentioned.",multi-context,"I'm sorry, but I do not have specific information on individuals named Anna Sromek, Ermus St. Louis, Kristin Stankard, and Thomas Starr. It is possible that they have expertise in various fields or industries, but without further information, I cannot provide specific details on their areas of expertise.",Anna Sromek's area of expertise is in Nursing. Ermus St. Louis specializes in Computer Sciences. Kristin Stankard's expertise lies in Nursing. Thomas Starr's area of expertise is in Law.,"Anna Sromek's area of expertise is Center for Drug Discovery, Ermus St. Louis specializes in Criminology and Criminal Justice, Kristin Stankard is an Assistant Clinical Professor in Nursing, and Thomas Starr is a Professor in Art + Design.",2,0,2,6,4,2,1,2,6,5,9,9,7,8.5,8.5,0.20731053,0.27295393,0.429295619
+24,What is the effective date of the 2025 Benefits Guide?,"The effective date of the 2025 Benefits Guide is January 1, 2025.",simple,"The effective date of the 2025 Benefits Guide is January 1, 2025.","The effective date of the 2025 Benefits Guide is January 1, 2025.","The effective date of the 2025 Benefits Guide is January 1, 2025.",10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,1,1,1
+25,What is the process for devising a formal plan to achieve completion of the degree if an extension is approved?,"If an extension is approved, the student will be directed to meet with the graduate program director to devise a formal plan to achieve completion of the degree.",multi-context,"1. Review the requirements for completing the degree: Before devising a formal plan, it is important to understand the specific requirements for completing the degree. This may include completing certain courses, passing exams, or submitting a thesis or dissertation.
+
+2. Meet with an academic advisor: Schedule a meeting with an academic advisor to discuss your approved extension and develop a plan for completing the degree. The advisor can provide guidance on course selection, timeline for completion, and any additional requirements that need to be met.
+
+3. Set specific goals and deadlines: Work with your academic advisor to set specific goals and deadlines for completing the degree. This may include completing certain courses by a certain date, submitting a thesis or dissertation proposal, or passing exams.
+
+4. Create a timeline: Develop a timeline that outlines the steps you need to take to complete the degree. This timeline should include deadlines for completing coursework, conducting research, and writing your thesis or dissertation.
+
+5. Monitor progress: Regularly monitor your progress towards completing the degree. This may involve meeting with your academic advisor on a regular basis, tracking your completion of coursework, and staying on top of deadlines.
+
+6. Seek support: If you encounter any challenges or obstacles during the completion of your degree, don't hesitate to seek support from your academic advisor, professors, or other resources available to you.
+
+7. Stay motivated: Completing a degree can be a challenging and time-consuming process, so it's important to stay motivated and focused on your goals. Remind yourself of the reasons why you pursued this degree in the first place and celebrate your achievements along the way.
+
+By following these steps and staying committed to your goals, you can successfully complete your degree even with an approved extension.","To devise a formal plan to achieve completion of the degree if an extension is approved, students should follow these steps:
+
+1. Meet with their academic advisor to discuss the extension and create a plan for degree completion.
+2. Work with the academic advisor to outline the remaining coursework, timeline for completion, and any additional requirements.
+3. Submit the formal plan, including the proposed timeline and coursework, to the appropriate department or college for approval.
+4. Once the plan is approved, adhere to the outlined timeline and complete the necessary coursework as per the agreement.
+
+It is important to communicate regularly with the academic advisor and department to ensure progress and successful completion of the degree within the extended timeframe.","If an extension is approved for a student to achieve completion of their degree, the student will be directed to meet with the graduate program director to devise a formal plan. This plan will outline the steps and timeline necessary for the student to successfully complete their degree requirements within the extended timeframe. The student and the program director will work together to ensure that the plan addresses any outstanding academic or research components needed for degree completion.",8,7,8.5,8.5,5,8,6,8,9,7,10,10,10,9.5,8,0.088841308,0.248735036,0.487058539
+26,"What courses are required for the Criminal Justice and Journalism, BS Plan of Study Four Years, Two Co-ops?","The courses required for the Criminal Justice and Journalism, BS Plan of Study Four Years, Two Co-ops are CRIM 1000 or JRNL 1000, JRNL 1101 and JRNL 1102, CRIM 1100, and ENGW 1111.",simple,"The required courses for the Criminal Justice and Journalism, BS Plan of Study Four Years, Two Co-ops program may vary depending on the specific university or college offering the program. However, some common courses that may be included in this program are:
+
+- Introduction to Criminal Justice
+- Introduction to Journalism
+- Media Law and Ethics
+- Reporting and Writing for Journalism
+- Criminal Law
+- Investigative Reporting
+- Criminal Procedure
+- Multimedia Journalism
+- Criminology
+- Data Journalism
+- Ethics in Criminal Justice
+- Broadcast Journalism
+- Corrections and Rehabilitation
+- Photojournalism
+- Criminal Justice Policy and Planning
+
+It is important to consult the specific program requirements at the university or college offering the program to get a complete list of required courses for the Criminal Justice and Journalism, BS Plan of Study Four Years, Two Co-ops program.","The courses required for the Criminal Justice and Journalism, BS Plan of Study Four Years, Two Co-ops are as follows:
+
+Year 1:
+- CRIM 1000 or JRNL 1000
+- JRNL 1101 and JRNL 1102
+- CRIM 1100
+- ENGW 1111
+- JRNL 1150
+
+Year 2:
+- CRIM 1110
+- CRIM 1120
+- EESH 2000 or EEAM 2000
+- JRNL 2201
+- Journalism elective 1
+
+Year 3:
+- CRIM 1700
+- CRIM 3000
+- CRIM 3600
+- JRNL 2301
+- Journalism elective 2
+
+Year 4:
+- CRIM 3700
+- JRNL 3550
+- JRNL 3610
+- JRNL 3550
+- Criminology elective
+
+Total Hours: 129","The courses required for the Criminal Justice and Journalism, BS Plan of Study Four Years, Two Co-ops are as follows:
+
+Year 1:
+- CRIM 1000 or JRNL 1000 (1 credit)
+- JRNL 1101 and JRNL 1102 (5 credits)
+- CRIM 1100 (4 credits)
+- JRNL 1150 (4 credits)
+- Elective (4 credits)
+
+Year 2:
+- CRIM 1110 (4 credits)
+- CRIM 1120 (4 credits)
+- EESH 2000 or EEAM 2000 (1 credit)
+- JRNL 2201 (4 credits)
+- Journalism elective 1 (4 credits)
+
+Year 3:
+- CRIM 1700 (4 credits)
+- CRIM 3000 (1 credit)
+- CRIM 3600 (4 credits)
+- JRNL 2301 (4 credits)
+- Journalism elective 2 (4 credits)
+
+Year 4:
+- CRIM 3700 (4 credits)
+- CRIM 4949 (4 credits)
+- JRNL 3550 (4 credits)
+- JRNL 4650 (4 credits)
+- Journalism elective 3 (4 credits)
+
+Total Hours: 132",3,2,5,7,4,8,4,6,8.5,3.5,7,3,6,8,5,0.23407173,0.54998142,0.379398671
+27,What is the course code for Business Planning for New Ventures?,The course code for Business Planning for New Ventures is ENTR 6212.,reasoning,The course code for Business Planning for New Ventures may vary depending on the institution offering the course. It is recommended to check the course catalog or contact the institution directly to obtain the specific course code.,The course code for Business Planning for New Ventures is BUSN 6200.,The course code for Business Planning for New Ventures is ENTR 6212.,3,2,3,7.5,5,10,2,6,9,10,10,10,10,10,10,0.385584021,0.828282828,1
+28,What does ARAB 1101 Elementary Arabic 1 course cover?,"The ARAB 1101 Elementary Arabic 1 course covers basic oral expression, listening comprehension, elementary reading, and writing in Modern Standard Arabic. It is designed for students with very little or no prior knowledge of Arabic.",multi-context,"ARAB 1101 Elementary Arabic 1 is an introductory course that covers the basics of the Arabic language. Topics typically include the Arabic alphabet, pronunciation, basic vocabulary, grammar, and sentence structure. Students will also learn how to engage in simple conversations, introduce themselves, ask and answer questions, and express basic needs and preferences in Arabic. Additionally, cultural aspects of the Arab world may be incorporated into the course to provide students with a broader understanding of the language and its context.","ARAB 1101 Elementary Arabic 1 is designed for students with very little or no prior knowledge of Modern Standard Arabic. The course provides a lively introduction to basic oral expression, listening comprehension, and elementary reading and writing. It uses practical vocabulary drawn from realistic situations, aims at good pronunciation and ease in response, and includes laboratory practice to complement class work. Students work aloud at their own speed, reinforce their acquisition of essential structures, and become acquainted with various audio-visual resources.","ARAB 1101 Elementary Arabic 1 is designed for students with very little or no prior knowledge of Modern Standard Arabic. The course provides a lively introduction to basic oral expression, listening comprehension, and elementary reading and writing. It focuses on practical vocabulary drawn from realistic situations, aims at good pronunciation, and ease in response. The course includes laboratory practice to complement class work, enabling students to work aloud at their own speed, reinforcing their acquisition of essential structures, and acquainting them with various audio-visual resources.",9,8.5,9,9.5,7,9,8.5,9,9.5,7,9.5,9,9,9.5,7,0.226702578,0.429728725,0.415445517
+29,What is the maximum number of times PT 8984 can be repeated?,PT 8984 can be repeated up to four times.,simple,The maximum number of times PT 8984 can be repeated is infinite.,The maximum number of times PT 8984 can be repeated is 3 times.,PT 8984 can be repeated up to four times.,3,0,2,6,5,10,2,4,9,8,10,10,10,10,10,0.489557226,0.496969697,1
+30,How many co-ops are required for the program?,The program requires two co-ops.,reasoning,"The number of co-ops required for a program can vary depending on the specific program and institution. Some programs may require one or two co-ops, while others may require three or more. It is important to check the specific requirements of the program you are interested in to determine how many co-ops are required.",The number of co-ops required for the program is not explicitly mentioned in the provided context information. It is recommended to consult the specific program's curriculum or contact the academic department at Northeastern University for accurate information on the number of co-ops required for a particular program.,"For the Law, JD program at Northeastern University School of Law, students are required to complete co-ops corresponding to three terms as part of the co-op requirement.",4,3,5,6,4,3,2,3,6,4,8,4,5,7,6,0.159771012,0.131834215,0.210678211
+31,What is the website for Northeastern University's Graduate Certificate in Corporate Finance?,The website for Northeastern University's Graduate Certificate in Corporate Finance is https://damore-mckim.northeastern.edu/ programs/corporate-ﬁnance-certiﬁcate/?utm_source=internal-referral&utm_medium=nu-catalog&utm_campaign=gccf.,multi-context,The website for Northeastern University's Graduate Certificate in Corporate Finance is: https://www.northeastern.edu/graduate/program/corporate-finance-certificate-11609/,The website for Northeastern University's Graduate Certificate in Corporate Finance is https://damore-mckim.northeastern.edu/programs/corporate-finance-certificate/?utm_source=internal-referral&utm_medium=nu-catalog&utm_campaign=gccf.,The website for Northeastern University's Graduate Certificate in Corporate Finance is https://damore-mckim.northeastern.edu/programs/corporate-finance-certificate/?utm_source=internal-referral&utm_medium=nu-catalog&utm_campaign=gccf.,10,5,5,10,8,10,10,10,10,10,10,10,10,10,10,0.588221841,0.911680912,0.911680912
+32,What does the combined Bachelor of Science degree program in health science and communication studies at Northeastern University offer?,The combined Bachelor of Science degree program in health science and communication studies at Northeastern University offers an interdisciplinary approach to public health communication. Students can combine courses from health sciences and communication studies to gain a comprehensive understanding of this field.,simple,"The combined Bachelor of Science degree program in health science and communication studies at Northeastern University offers students a unique interdisciplinary education that combines the fields of health science and communication studies. This program allows students to develop a strong foundation in both areas, preparing them for a wide range of career opportunities in healthcare, public health, and communication fields.
+
+Students in this program will have the opportunity to explore topics such as health communication, health promotion, healthcare policy, and public health issues. They will also gain practical skills in areas such as public speaking, writing, and media production, which are essential for effective communication in the healthcare industry.
+
+Additionally, students in this program will have access to Northeastern University's extensive network of healthcare and communication professionals, providing them with valuable networking opportunities and potential internships or job placements.
+
+Overall, the combined Bachelor of Science degree program in health science and communication studies at Northeastern University offers students a comprehensive and well-rounded education that prepares them for successful careers in the rapidly evolving healthcare and communication industries.","The combined Bachelor of Science degree program in health science and communication studies at Northeastern University offers an interdisciplinary approach to public health communication. Students combine courses from health sciences and communication studies to learn about health and illness, understand the role of communication in shaping public understanding of health issues, and prepare for careers involving crafting health messages, promoting healthcare services, and disease awareness and prevention. The program includes experiential learning opportunities to enhance the interdisciplinary curriculum.","The combined Bachelor of Science degree program in health science and communication studies at Northeastern University offers an interdisciplinary approach to public health communication. Students combine courses from health sciences and communication studies to learn about health and illness and the important role of communication in shaping the public’s understanding of health issues. The curriculum is designed to prepare students for challenging careers that involve crafting messages about health, developing strategies for promoting healthcare services, and specific applications such as disease awareness and prevention.",9,9,8.5,9,7,10,10,10,9,8.5,10,10,9,9.5,8,0.272126835,0.586440678,0.553952756
+33,What is the purpose of the Husky 101 Orientation for newly enrolled students?,The purpose of the Husky 101 Orientation for newly enrolled students is to provide mandatory orientation for newly enrolled full-time undergraduates at Northeastern University's Boston campus.,reasoning,"The purpose of the Husky 101 Orientation for newly enrolled students is to provide them with essential information and resources to help them successfully transition to university life. This orientation typically covers topics such as academic expectations, campus services, student support resources, campus safety, and ways to get involved in campus life. It also allows students to meet other new students, faculty, and staff, and to ask any questions they may have about their new academic environment. Overall, the Husky 101 Orientation aims to help students feel prepared and confident as they begin their college journey.","The purpose of the Husky 101 Orientation for newly enrolled students at Northeastern University is to connect them to platforms that help them begin charting their path at the university with global, research, and experiential opportunities and programs. The orientation allows students to experience Husky Life, hear from university leadership and academic areas, learn about university resources and services, engage in student involvement programs, meet new classmates, and explore the campus and Boston. It is mandatory for newly enrolled first-year, transfer, and military veteran students, and highly encouraged for families.","The purpose of the Husky 101 Orientation for newly enrolled students at Northeastern University is to connect them to platforms that help them begin charting their path at the university with global, research, and experiential opportunities and programs. During the orientation, students will experience Husky Life, hear from university leadership and academic areas, learn about university resources and services, engage in student involvement programs, meet new classmates, and explore the campus and Boston. It is mandatory for newly enrolled first-year, transfer, and military veteran students, and highly encouraged for families.",9.5,8,9,9.5,7,9.5,9,9.5,9,7,9,8.5,9,8.7,7,0.248457606,0.309559721,0.309559721
+34,What technologies are included in extended realities (XR)?,"The technologies included in extended realities (XR) are augmented reality, virtual reality, and mixed reality.",multi-context,"Extended realities (XR) encompass a variety of technologies that blend the physical and digital worlds. Some of the key technologies included in XR are:
+
+1. Virtual Reality (VR): Immersive technology that creates a simulated environment, typically experienced through a headset or goggles.
+
+2. Augmented Reality (AR): Technology that overlays digital information onto the real world, often viewed through a smartphone or tablet.
+
+3. Mixed Reality (MR): Combines elements of both VR and AR to create a more interactive and immersive experience.
+
+4. 360-degree video: Video content that captures a full 360-degree view of a scene, allowing viewers to look around and explore the environment.
+
+5. Haptics: Technology that simulates the sense of touch through vibrations, force feedback, or other tactile sensations.
+
+6. Spatial computing: Technology that enables digital content to interact with physical spaces, allowing for more natural and intuitive interactions.
+
+7. Motion tracking: Technology that captures and interprets the movements of users, allowing for more immersive and interactive experiences.
+
+8. Eye tracking: Technology that monitors the movement and focus of a user's eyes, enabling more responsive and personalized experiences.
+
+9. Audio spatialization: Technology that creates immersive audio experiences by simulating the direction and distance of sounds in a virtual environment.
+
+10. Artificial intelligence (AI): Technology that enables XR applications to adapt and respond to user behavior, creating more dynamic and engaging experiences.","Extended Realities (XR) includes augmented reality, virtual reality, and mixed reality technologies.","Extended realities (XR) include augmented reality, virtual reality, and mixed reality technologies. These technologies have seen explosive growth over the last decade, offering immersive experiences and innovative applications across various industries and disciplines.",9.5,8.5,9,9,7,10,10,10,10,10,10,10,9,9.5,7,0.091471495,0.75654321,0.435386473
+35,How does cooperative education enhance on-campus study at Northeastern University?,Cooperative education enhances on-campus study at Northeastern University by providing students with real-world experience through full-time employment at locations worldwide.,reasoning,"Cooperative education at Northeastern University enhances on-campus study by providing students with real-world experience and practical skills that complement their academic learning. Through co-op placements, students have the opportunity to apply their classroom knowledge in a professional setting, gaining hands-on experience and building a network of industry contacts.
+
+This experiential learning component helps students to better understand the relevance of their academic studies and how they can be applied in a professional context. It also allows students to explore different career paths and industries, helping them to make more informed decisions about their future career goals.
+
+Additionally, cooperative education at Northeastern University helps students to develop important soft skills such as communication, teamwork, problem-solving, and time management. These skills are highly valued by employers and can help students to stand out in the job market after graduation.
+
+Overall, cooperative education enhances on-campus study at Northeastern University by providing students with a well-rounded education that combines theoretical knowledge with practical experience, preparing them for success in their future careers.","Cooperative education at Northeastern University enhances on-campus study by providing students with real-world experience through full-time employment at various locations worldwide. This integrated learning approach allows students to alternate periods of academic courses with periods of employment related to their academic or career interests. By participating in co-op, students gain practical experience that complements their in-class studies, enriches their learning, and fosters career development. This experiential learning model at Northeastern University bridges the gap between theory and practice, preparing students for success in their future endeavors.","Cooperative education at Northeastern University enhances on-campus study by providing students with real-world experience through full-time employment at various locations worldwide. Students alternate periods of academic courses with periods of employment in positions related to their academic or career interests. This integrated learning experience enriches both in-class studies and career development, allowing students to apply theoretical knowledge in practical settings, gain valuable skills, and make meaningful contributions to their chosen fields. Through co-op, students can develop job search and career management skills, work with diverse employers, and participate in global co-op opportunities, all of which contribute to a well-rounded educational experience that prepares them for future success.",9,9,9,8.5,7,10,10,10,9.5,8,10,10,10,9.5,8,0.175599533,0.358604845,0.298134631
+36,What courses are related to Product Development and Mechatronic Systems?,"The courses related to Product Development and Mechatronic Systems are:
+- Product Development
+- Mechatronic Systems",multi-context,"Some courses related to Product Development and Mechatronic Systems include:
+
+1. Product Design and Development
+2. Mechatronics Engineering
+3. Robotics and Automation
+4. Computer-Aided Design (CAD)
+5. Manufacturing Processes and Systems
+6. Control Systems Engineering
+7. Sensors and Actuators
+8. Product Lifecycle Management
+9. Design for Manufacturing and Assembly
+10. Advanced Materials and Manufacturing Technologies.","Courses related to Product Development and Mechatronic Systems at Northeastern University include:
+
+1. Product Development, MS Program Requirements:
+   - GE 5010 Customer-Driven Technical Innovation for Engineers
+   - GE 5020 Engineering Product Design Methodology
+   - GE 5030 Iterative Product Prototyping for Engineers
+   - GE 5100 Product Development for Engineers
+   - Various options for coursework, project, or thesis (refer to page 565 of the Graduate Catalog)
+
+2. Mechatronic Systems (ME 5245):
+   - Integration of electronic/electrical engineering, computer technology, and control engineering with mechanical engineering
+   - Topics include mixed-systems integration, sensors, actuation systems, dynamic systems modeling, response characterization, interfacing, data presentation systems, microprocessors, real-time monitoring and control, and more
+   - Prerequisites: ME 4555 or ME 5659 with a minimum grade of C
+
+These courses provide a comprehensive understanding of product development processes, technical market analysis, control systems, and mechanisms used in mechatronic systems.","Courses related to Product Development and Mechatronic Systems at Northeastern University include:
+
+Product Development, MS:
+- ME 5245 Mechatronic Systems
+- ME 5250 Robot Mechanics and Control
+- ME 5645 Environmental Issues in Manufacturing and Product Use
+- ME 5650 Advanced Mechanics of Materials
+- ME 5659 Control Systems Engineering
+
+Mechatronic Systems, MSME:
+- ME 5245 Mechatronic Systems
+- ME 5659 Control Systems Engineering
+
+These courses cover topics such as mixed-systems integration, sensors, actuation systems, control engineering, robot mechanics, environmental issues in manufacturing, advanced mechanics of materials, and control systems engineering in the context of product development and mechatronic systems.",9,8,9,8.5,6,9.5,9,9.5,8.5,7,9.5,8,9,8.5,7,0.29719888,0.151651652,0.210924761
+37,What is the combined major offered at Northeastern University?,"The combined major offered at Northeastern University is Environmental Studies and Political Science, BA.",simple,One of the combined majors offered at Northeastern University is the combined major in Computer Science and Business Administration.,"Northeastern University offers combined majors for students with academic interests spanning two disciplines. A combined major consists of at least nine courses from each of the two participating disciplines, totaling at least 16 courses in the combined major. The curricular integration between the two disciplines includes courses acting as a bridge, experiential learning opportunities, research, and more. Students can find the list of current combined majors online. Upon graduation, students receive one major, one degree, and one diploma, with the combined major and home college appearing on the transcript and diploma. Students can request admission to a combined major by following the standard procedure for changing majors.","Northeastern University offers a variety of combined majors for students with academic interests spanning two disciplines. Some of the combined majors available include:
+1. American Sign Language and Linguistics, BS
+2. Behavioral Neuroscience, BS
+3. Behavioral Neuroscience and Design, BS
+4. Behavioral Neuroscience and Philosophy, BS
+5. Biochemistry, BS
+6. Bioengineering and Biochemistry, BSBioE
+7. Chemical Engineering and Biochemistry, BSChE
+8. Computer Science and Behavioral Neuroscience, BS
+9. Computer Science and Linguistics, BS
+10. Data Science and Behavioral Neuroscience, BS
+11. Data Science and Biochemistry, BS
+12. Data Science and Linguistics, BS
+13. Linguistics, BS
+14. Linguistics and Communication Studies, BA
+15. Linguistics and Cultural Anthropology, BS
+16. Linguistics and English, BA
+17. Linguistics and Psychology, BS
+
+These combined majors provide students with a unique opportunity to integrate knowledge and skills from multiple disciplines to enhance their academic experience and career prospects.",8,2,4,7,6,6,5,7,8,4,2,2,3,8,4,0.534376018,0.082922425,0.081363081
+38,"Based on the given context, what are the options for communication methods used by individuals with Deaf-Blindness?","Based on the given context, the options for communication methods used by individuals with Deaf-Blindness are American Sign Language and Si.",reasoning,"1. Tactile Sign Language: Individuals with Deaf-Blindness may use tactile sign language, where they receive information through touch on their hands. This can involve the use of a modified version of American Sign Language (ASL) or another tactile communication system.
+
+2. Braille: Some individuals with Deaf-Blindness may use Braille to communicate, either through written communication or by using a Braille display or keyboard.
+
+3. Tactile Communication Boards: Tactile communication boards are physical boards with symbols or letters that can be felt by touch. Individuals with Deaf-Blindness can use these boards to communicate with others.
+
+4. Assistive Technology: Individuals with Deaf-Blindness may use assistive technology devices, such as communication apps on smartphones or tablets, to communicate with others through text or speech output.
+
+5. Touch Signals: Some individuals with Deaf-Blindness may use touch signals to communicate simple messages, such as tapping someone's hand to get their attention or using specific touch patterns to convey information.
+
+6. Communication Guides: Communication guides are trained professionals who assist individuals with Deaf-Blindness in communicating with others. They may use a combination of tactile sign language, Braille, and other communication methods to facilitate communication.","The options for communication methods used by individuals with Deaf-Blindness as indicated in the provided context are:
+- American Sign Language
+- Signed English
+- Other Signed Language (e.g. Spanish)
+- Cued Speech
+- Oral: English. Other Language:
+- Tactile Sign Language
+- Close Vision Signing
+- Other:","The communication methods used by individuals with Deaf-Blindness as indicated in the context are:
+- American Sign Language
+- Signed English
+- Other Signed Language (e.g. Spanish)
+- Cued Speech
+- Oral: English. Other Language
+- Tactile Sign Language
+- Close Vision Signing
+- Other
+
+These are the various communication methods that can be utilized by individuals with Deaf-Blindness.",9,8,9,8.5,7,7,5,6.5,8,4,6,5,8,7.5,4,0.104626157,0.47311828,0.335704125
+39,What are the sources for the supplemental retirement portion under the TIAA plan number 100226 and Fidelity account 89948?,"The sources for the supplemental retirement portion under the TIAA plan number 100226 and Fidelity account 89948 are 03, 04, 05, 06, 07, 08, and 09.",multi-context,"The sources for the supplemental retirement portion under the TIAA plan number 100226 and Fidelity account 89948 may include contributions from the individual account holder, employer contributions, investment gains, and any additional contributions made by the account holder or employer. It is important to review the specific terms and conditions of each plan to understand the sources of the supplemental retirement portion.","The sources for the supplemental retirement portion under the TIAA plan number 100226 and Fidelity account 89948 are 03, 04, 05, 06, 07, 08, and 09.","The sources for the supplemental retirement portion under the TIAA plan number 100226 and Fidelity account 89948 are sources 03, 04, 05, 06, 07, 08, and 09.",4,3,5,6.5,4,10,10,10,10,10,10,10,10,10,10,0.39675828,1,0.967813541
+40,What is the required GPA for the minor in Information Ethics?,The required GPA for the minor in Information Ethics is 2.000.,simple,The required GPA for the minor in Information Ethics may vary depending on the institution offering the program. It is recommended to check with the specific university or college for their GPA requirements for this particular minor.,"For the minor in Information Ethics at Northeastern University, the required GPA is 2.000.",The required GPA for the minor in Information Ethics at Northeastern University is 2.000.,4,2,3,6,5,10,10,10,10,10,10,10,10,10,10,0.385584021,0.758518519,0.859259259
+41,Where can information about years one through five of the PharmD program be found?,"Information about years one through five of the PharmD program can be found on the Undergraduate Catalog Doctor of Pharmacy (Pharmacy, PharmD) webpage.",reasoning,"Information about the first five years of a PharmD program can typically be found on the website of the specific pharmacy school or program offering the degree. This information may include details about the curriculum, course requirements, clinical rotations, experiential learning opportunities, and any other specific requirements or expectations for students during these years of the program. Additionally, students can also reach out to the admissions office or academic advisors at the pharmacy school for more information about the program's structure and requirements.","Information about years one through five of the PharmD program can be found on the Northeastern University website under the College of Pharmacy section. Specifically, you can visit the Pharmacy and Health Systems Sciences department page for detailed information about the PharmD program curriculum and requirements.","Information about years one through five of the PharmD program can be found in the Undergraduate Catalog Doctor of Pharmacy (Pharmacy, PharmD) webpage.",7,6,8,8.5,5,8,7,8.5,8.5,7.5,10,10,10,10,10,0.231360332,0.51640349,0.940711462
+42,"Why did colonialist countries feel the need to conquer and dominate, and how did the colonized peoples were ruled?","Colonialist countries felt the need to conquer and dominate in order to expand their military, economic, political, and cultural power. The colonized peoples were ruled through various mechanisms and systems implemented by the colonial powers.",multi-context,"Colonialist countries felt the need to conquer and dominate other regions for a variety of reasons, including economic gain, access to resources, strategic military positioning, and a desire for power and control. The concept of imperialism and the belief in the superiority of Western civilization also played a significant role in justifying colonial expansion.
+
+Once colonized, the indigenous peoples were often ruled through a combination of direct and indirect control. Direct rule involved the imposition of colonial governments and institutions, with the colonizers holding all political and administrative power. Indirect rule, on the other hand, involved the use of local leaders and traditional structures to govern on behalf of the colonizers.
+
+Colonized peoples were often subjected to harsh treatment, exploitation, and discrimination by the colonial powers. They were forced to provide labor, resources, and taxes to benefit the colonial economy, and their cultures, languages, and traditions were often suppressed or marginalized. Resistance to colonial rule was common, leading to uprisings, rebellions, and movements for independence.
+
+Overall, colonialism was a system of domination and exploitation that had lasting impacts on both the colonizers and the colonized peoples, shaping the political, social, and economic landscapes of many regions around the world.","Colonialist countries felt the need to conquer and dominate primarily for economic reasons, seeking to exploit the resources and labor of the colonized regions for their own benefit. Additionally, colonial powers aimed to expand their territories, increase their wealth, and gain strategic advantages.
+
+The colonized peoples were ruled through various mechanisms of control, including direct rule, where the colonial power had full administrative control, and indirect rule, where local leaders were used as intermediaries. The colonizers imposed their laws, languages, and cultures, often leading to the suppression of indigenous practices and traditions. Additionally, the colonized populations were often subjected to forced labor, discriminatory policies, and violence to maintain control and ensure compliance with colonial authority.","Colonialist countries felt the need to conquer and dominate due to various reasons such as economic, political, and cultural expansion. They sought to exploit resources, establish power and control, and spread their influence. The colonized peoples were ruled through systems of governance imposed by the colonial powers, often involving suppression of local cultures, forced labor, and imposition of new laws and regulations to maintain control and extract resources. This relationship was characterized by unequal power dynamics and exploitation.",9.5,9,9.5,8.5,7,9,9,9.5,9,8,8,9,9,8.5,7,0.199823165,0.321201201,0.43859789
+43,What is Amy Shirong Lu's job title?,"Amy Shirong Lu's job title is Associate Professor of Communication Studies and Health Sciences at the University of North Carolina, Chapel Hill.",simple,Amy Shirong Lu is a Senior Research Scientist at Google.,Amy Shirong Lu is an Associate Professor in Communication Studies and Health Sciences.,Amy Shirong Lu is an Associate Professor in Communication Studies and Health Sciences at Northeastern University.,2,1,1,5,6,9,9,7,9,8.5,9,2,4,7.5,8,0.245030955,0.544662309,0.588588589
+44,What course options are available for fulfilling the Integrative Course Requirement?,The course options available for fulfilling the Integrative Course Requirement are CRIM 4040 Crime Prevention and CRIM 4800 Crime Mapping.,reasoning,"Some course options that may fulfill the Integrative Course Requirement include:
+
+1. Interdisciplinary studies courses that combine multiple disciplines or perspectives
+2. Capstone courses that require students to synthesize knowledge from their major and other courses
+3. Research-based courses that require students to integrate theory and practice
+4. Service-learning courses that combine academic learning with community service
+5. Global studies courses that explore international issues and perspectives
+6. Ethics courses that require students to consider ethical implications of their studies
+7. Leadership courses that focus on developing skills for integrating knowledge and leading others.","The Integrative Course Requirement at Northeastern University can be fulfilled by taking courses that cover the following competencies:
+
+1. Engaging with the Natural and Designed World
+2. Exploring Creative Expression and Innovation
+3. Interpreting Culture
+4. Conducting Formal and Quantitative Reasoning
+5. Understanding Societies and Institutions
+6. Analyzing and Using Data
+7. Engaging Differences and Diversity
+8. Employing Ethical Reasoning
+
+These competencies can be met through a variety of courses offered at Northeastern University, including major, minor, or concentration requirements, as well as general electives. Students can use the Self-Service Banner ""Browse Classes"" tool to find courses that satisfy the Integrative Course Requirement. It is important to note that courses taken pass/fail cannot be used to fulfill this requirement.","The course options available for fulfilling the Integrative Course Requirement are as follows:
+1. ENGL 2620 What Is Nature?
+2. ENGL 2650 Science Writing: Origins, Ethics, and Emerging Genres
+3. ENGL 2770 Writing to Heal
+4. ENGL 3340 Technologies of Text
+
+These courses can be taken to fulfill the Integrative Course Requirement as part of the undergraduate program at Northeastern University.",3,2,3,6.5,4,3,5,5,6.5,4,2,0,2,7,6,0.126940916,0.085310475,0.28191905
+45,Which course(s) are related to writing in global contexts?,"The course ""ENGL 2760 Writing in Global Contexts"" is related to writing in global contexts.",multi-context,"1. Global Writing Workshop
+2. Writing in Global Contexts
+3. Global Communication and Writing
+4. Writing Across Cultures
+5. Writing for Global Audiences","The course related to writing in global contexts at Northeastern University is ""Writing Across Audiences and Genres"" as part of the NUpath requirements.","The course related to writing in global contexts is ""JRNL 5460. POV: The Art and Craft of Opinion Journalism"" from the Journalism department. This course offers students an opportunity to learn how to write a variety of opinion articles in a journalistic context, including blog posts, op-ed columns, personal essays, reviews, and magazine-style stories that combine reporting with a strong point of view. Students also learn about the ethics of opinion journalism, study the best practitioners in the field, and use social media to inform and promote their work.",9,4,7,8.5,6,6,4,5,7,8,5,2,7,7.5,4,0.266081871,0.426900585,0.189525883
+46,What services does the Northeastern University Library provide?,"The Northeastern University Library provides collections and services to the entire Northeastern community, both on campus in Boston, Oakland, and across the global campus network, as well as online.",simple,"The Northeastern University Library provides a wide range of services, including:
+
+1. Access to a vast collection of physical and digital resources, including books, journals, databases, and multimedia materials.
+2. Research assistance and support from librarians and subject specialists.
+3. Interlibrary loan services for materials not available in the library's collection.
+4. Instruction and workshops on research skills, information literacy, and academic writing.
+5. Study spaces, computer workstations, and printing and scanning facilities.
+6. Special collections and archives for primary source materials.
+7. Data management and visualization support.
+8. Citation management tools and assistance.
+9. Collaborative spaces for group work and projects.
+10. Technology lending services, including laptops, cameras, and other equipment.","The Northeastern University Library provides a variety of services, including access to hundreds of databases through third-party vendors for research, collaborating with University ITS for accessibility, requesting remediated content from vendors, reviewing third-party roadmaps for accessibility features, and creating research guides and tutorials following accessibility best practices. The library also offers a Digital Repository System with varying accessibility, in-person services at library buildings in Boston and Oakland, lactation rooms, all-gender restrooms, and wheelchair accessible facilities. Additionally, the library offers support for open access publishing, borrowing materials, proxy borrowing, and University-wide accessibility support through the Disability Resource Center and Digital Accessibility. For more information, individuals can contact the library directly or visit the University Libraries website.","The Northeastern University Library provides collections and services supporting research and teaching across disciplines. Its collections include over 1 million e-books, almost 500,000 print titles, more than 150,000 licensed e-journals, and over 200,000 streaming audio and visual titles. The Library offers on-site and online research help, subject-specialist librarians for consultation, interlibrary loan services, citation management workshops, research data support, and digital scholarship services. Additionally, the Library provides spaces for group work, quiet individual study, group study rooms, individual study rooms for graduate students, and studios for audio recording, video production, and 3D printing.",10,9,10,9.5,8,9.5,9,9.5,8.5,7,10,10,10,9.5,8,0.13648558,0.143481106,0.171112332
+47,How many writing-intensive courses are offered in the Northeastern University 2023-2024 Undergraduate Day Catalog?,There are 118 writing-intensive courses offered in the Northeastern University 2023-2024 Undergraduate Day Catalog.,multi-context,There are 58 writing-intensive courses offered in the Northeastern University 2023-2024 Undergraduate Day Catalog.,"In the Northeastern University 2023-2024 Undergraduate Day Catalog, a total of 14 writing-intensive courses are offered.",There are a total of 10 writing-intensive courses offered in the Northeastern University 2023-2024 Undergraduate Day Catalog.,9,2,5,8,9,9.5,2,3,8,7,10,2,4,9,9,0.913888889,0.659313725,0.834054834
+48,What are some possible topics covered in ENGL 7395?,"Some possible topics covered in ENGL 7395 include literacy and literacies, basic writing, issues of gender, race, and class in the classroom, writing assessment, and collaborative learning.",simple,"1. Postcolonial literature and theory
+2. Globalization and literature
+3. Feminist literary criticism
+4. Queer theory and literature
+5. Environmental literature
+6. Disability studies and literature
+7. Digital humanities and literature
+8. Critical race theory and literature
+9. Literature and the body
+10. Literature and trauma
+11. Literature and psychoanalysis
+12. Literature and the archive
+13. Literature and visual culture
+14. Literature and affect theory
+15. Literature and posthumanism","ENGL 7395 is a course in the English department at Northeastern University. Possible topics covered in this course could include literature analysis, critical theory, genre studies, cultural studies, postcolonial literature, feminist theory, and more. For specific details on the course content and syllabus, it is recommended to consult the English department or the course instructor directly.","Some possible topics covered in ENGL 7395 (Topics in Writing) may include literacy and literacies, basic writing, issues of gender, race, and class in the classroom, writing assessment, or collaborative learning. This course may cover a range of writing-related subjects and may be repeated without limit.",3,3,2,7,4,6,4.5,5,7.5,6.5,9,9,8,8.5,7,0.069444444,0.193762705,0.69044044
+49,What is Caroline Scannell's role at Northeastern University?,Caroline Scannell's role at Northeastern University is a Disability Specialist.,reasoning,Caroline Scannell is the Associate Director of Admissions at Northeastern University.,Caroline Scannell's role at Northeastern University is not provided in the context information available. It is recommended to directly contact the university's relevant department or office for information regarding Caroline Scannell's role at Northeastern University.,"Caroline Scannell is a Disability Specialist at Northeastern University, providing disability-related support services to ensure equitable access to academic and campus experiences for DAS students. She works with students to understand their strengths, develop strategies to compensate for disability-related challenges, and promote self-determination and self-advocacy skills for success in the post-secondary setting and beyond. Caroline can be contacted at c.scannell@northeastern.edu or (617)-373-3388.",2,1,3,7,6,2,0,2,8,5,10,10,9.5,9.5,7,0.433333333,0.316977855,0.169864644
+50,How many times can the student take the dissertation proposal examination?,"The student can take the dissertation proposal examination twice, at most.",multi-context,"The number of times a student can take the dissertation proposal examination may vary depending on the policies of the specific academic institution. In some cases, students may be allowed to retake the examination multiple times if they do not pass on their first attempt. It is important for students to consult with their academic advisor or department to understand the specific rules and regulations regarding retaking the dissertation proposal examination.",The student can take the dissertation proposal examination once.,The student may take the dissertation proposal examination twice at most.,6,4,5,7.5,5,9,2,3,8,9,10,10,10,10,10,0.180081301,0.792592593,0.872727273
+51,"What is the main focus of the course 'Sexuality, Gender and the Law'?","The main focus of the course 'Sexuality, Gender and the Law' is to address doctrinal problems and justice concerns associated with gender and sexuality using case law and theory.",reasoning,"The main focus of the course ""Sexuality, Gender and the Law"" is to explore the intersection of law, sexuality, and gender, and how legal systems impact individuals based on their sexual orientation and gender identity. This course typically covers topics such as LGBTQ+ rights, discrimination, family law, reproductive rights, and other legal issues related to sexuality and gender. Students will examine the historical and current legal frameworks surrounding these issues and critically analyze the ways in which the law can both support and hinder the rights and freedoms of individuals based on their sexual orientation and gender identity.","The main focus of the course 'Sexuality, Gender, and the Law' is to address doctrinal problems and justice concerns associated with gender and sexuality using case law and theory. The course explores key concepts such as privacy, identity, and consent in the context of sexuality and gender, rather than being a doctrinal survey. Topics covered include same-sex marriage, sodomy, sexual harassment, discrimination, among others. Students are expected to write a paper and share their learnings with the class.","The main focus of the course 'Sexuality, Gender, and the Law' is to address doctrinal problems and justice concerns associated with gender and sexuality. The course uses case law and theory to explore key concepts such as privacy, identity, and consent, which are foundational to arguments in the domain of sexuality and gender. It delves into topics like same-sex marriage, sodomy, sexual harassment, discrimination, among others, through a critical inquiry lens rather than a doctrinal survey. Students are expected to write a paper and share their learnings with the class.",9.5,9,9.5,9.3,7,10,10,9,9,8,9.5,9,9.5,9,7,0.268808399,0.53412532,0.474764595
+52,What does ACCT 1201 cover?,"ACCT 1201 covers the basic concepts underlying financial statements and the accounting principles followed in the preparation of the balance sheet, the income statement, and the statement of cash flows.",multi-context,"ACCT 1201 typically covers the basic principles of financial accounting, including topics such as the accounting cycle, financial statements preparation, analyzing and recording transactions, adjusting entries, and interpreting financial information. Students may also learn about accounting principles, concepts, and standards, as well as how to apply them in real-world scenarios.","Based on the provided context information, ACCT 1201 is not specifically mentioned. To find information on what ACCT 1201 covers, it is recommended to refer to the official course catalog or academic department at Northeastern University.","ACCT 1201 covers the basic concepts underlying financial statements and the accounting principles followed in the preparation of the balance sheet, the income statement, and the statement of cash flows. It offers students an opportunity to become familiar with accounting terminology and methods designed to interpret, analyze, and evaluate published corporate financial reports. The course also relates current economic, business, and global events to accounting issues and emphasizes the importance of ethics in financial reporting.",9,8.5,9,9,8,4,3,2,6,5,10,10,9,9.5,7.5,0.272855134,0.111742424,0.568654646
+53,What is the purpose of Northeastern University's Paid Leave Program (PLP)?,"The purpose of Northeastern University's Paid Leave Program (PLP) is to provide meaningful paid time away from work to employees who need to care for themselves or their family members, while also ensuring wage replacement and job protection.",simple,"The purpose of Northeastern University's Paid Leave Program (PLP) is to provide eligible employees with paid time off for various reasons, such as illness, injury, caregiving responsibilities, or personal emergencies. This program is designed to support employees in maintaining a healthy work-life balance and to ensure that they have the necessary time off to address their personal and family needs without sacrificing their income.","The purpose of Northeastern University's Paid Leave Program (PLP) is to provide full or partial wage replacement and job protection to employees who need time away from their jobs for their own serious health condition, for covered family related reasons, for covered reasons relating to a family member’s military service, or as provided for by applicable state or local law where broader. The policy applies to all employees based in the United States whose primary relationship with the university is as an employee and employer, including full-time, part-time, and temporary employees, unless otherwise required by applicable law.","The purpose of Northeastern University's Paid Leave Program (PLP) is to provide full or partial wage replacement and job protection to employees who need time away from their jobs for their own serious health condition, for covered family related reasons, for covered reasons relating to a family member’s military service, or as provided for by applicable state or local law where broader. The policy applies to all employees based in the United States whose primary relationship with the university is as employee and employer, including full-time, part-time, and temporary employees.",9,8,8.5,9,7,9,9,9,8.5,7,9.5,9,9.5,8.5,7,0.376205887,0.358661146,0.377623448
+54,Why are strong written and oral communication skills important across all industries and professions?,"Strong written and oral communication skills are important across all industries and professions because they are essential to success. Regardless of the field or organization, effective communication is crucial for conveying ideas, collaborating with colleagues, and engaging with clients or customers. Whether it is in presenting ideas, negotiating contracts, writing reports, or simply interacting with others, the ability to communicate clearly and effectively plays a significant role in achieving professional goals and maintaining strong professional relationships.",reasoning,"Strong written and oral communication skills are important across all industries and professions because they are essential for effectively conveying information, ideas, and messages to others. Here are some reasons why these skills are crucial:
+
+1. Effective communication is key to building relationships with colleagues, clients, and customers. Clear and concise communication helps to establish trust, credibility, and understanding, which are essential for successful interactions.
+
+2. Strong communication skills are necessary for collaboration and teamwork. In order to work effectively with others, individuals must be able to communicate their thoughts, ideas, and feedback clearly and professionally.
+
+3. Good communication skills are essential for problem-solving and decision-making. Being able to articulate thoughts and ideas clearly allows individuals to analyze and evaluate information, come up with solutions, and make informed decisions.
+
+4. Effective communication is crucial for leadership and management roles. Leaders must be able to communicate their vision, goals, and expectations to their team members in order to inspire and motivate them to achieve success.
+
+5. Strong communication skills are important for career advancement. Individuals who can communicate effectively are more likely to be seen as competent, reliable, and professional, which can lead to greater opportunities for growth and advancement within their industry.
+
+Overall, strong written and oral communication skills are essential for success in any industry or profession because they enable individuals to effectively convey information, collaborate with others, solve problems, lead teams, and advance their careers.","Strong written and oral communication skills are important across all industries and professions because they are essential for effective collaboration, clear expression of ideas, and successful interaction with colleagues, clients, and stakeholders. These skills enable professionals to convey information clearly, build relationships, negotiate effectively, and present ideas persuasively. In today's global and digitalized world, the ability to communicate clearly and effectively is crucial for career advancement and professional success.","Strong written and oral communication skills are important across all industries and professions because they are essential for success. Effective communication allows individuals to convey their ideas clearly, collaborate with others, negotiate effectively, manage crises, and engage in public speaking. These skills are critical for building relationships, solving problems, and advancing in one's career. In today's competitive marketplace, the ability to communicate well is a distinct advantage that can lead to professional competency and success in various fields.",9.5,9,9.5,9.5,8,9.5,9,8.5,9.5,8,9.5,9,8,9.5,8,0.252203459,0.490296804,0.437173937
+55,What is the difference in the annual deductible for the High Deductible PPO With HSA and the Core PPO? ,"The difference in the annual deductible for the High Deductible PPO With HSA and the Core PPO is $1,600 for an individual and $3,200 for a family.",reasoning,"The annual deductible for the High Deductible PPO With HSA is typically higher than the annual deductible for the Core PPO. The High Deductible PPO With HSA is designed to work in conjunction with a Health Savings Account (HSA), which allows individuals to save money tax-free for medical expenses. This plan usually has a higher deductible in order to qualify for the HSA. On the other hand, the Core PPO typically has a lower deductible and may have different coverage options and cost-sharing arrangements.","The annual deductible for the High Deductible PPO With HSA is $2,000 for an individual and $4,000 for a family. In comparison, the annual deductible for the Core PPO is $2,500 for an individual and $5,000 for a family. Therefore, the difference in the annual deductible between the High Deductible PPO With HSA and the Core PPO is $500 for an individual and $1,000 for a family.","The annual deductible for the High Deductible PPO With HSA is $2,000 for an individual and $4,000 for a family. In comparison, the annual deductible for the Core PPO is $500 for an individual and $1,000 for a family. Therefore, the difference in the annual deductible between the High Deductible PPO With HSA and the Core PPO is $1,500 for an individual and $3,000 for a family.",6,5,6,7,5,9,3,7,8.5,6,9,4,6,9,6,0.296780813,0.478181151,0.511451145
+56,What is the purpose of the clinical SLPA minor?,The purpose of the clinical SLPA minor is to prepare students for admission into a graduate program in speech-language pathology or audiology.,multi-context,"The purpose of the clinical SLPA minor is to provide students with the knowledge and skills necessary to work as a Speech-Language Pathology Assistant (SLPA) in a clinical setting. This minor typically includes coursework in speech and language development, communication disorders, assessment and intervention techniques, and professional ethics and standards. By completing this minor, students can gain practical experience and training that will prepare them for a career as an SLPA, working under the supervision of a licensed speech-language pathologist to help individuals with communication disorders improve their communication skills and quality of life.","The purpose of the clinical SLPA minor is to prepare students for admission into a graduate program in speech-language pathology or audiology. Students in this minor are on a track that, if supplemented with certain elective choices within their major, would meet all admissions requirements for Northeastern University's MS Speech-Language Pathology program.","The purpose of the clinical SLPA minor is to prepare students for admission into a graduate program in speech-language pathology or audiology. Students in this minor track, if supplemented with certain elective choices within their major, would meet all admissions requirements for Northeastern University's MS Speech-Language Pathology program. It consists of five department-specific SLPA core courses and requires a minimum GPA of 2.000 in the minor. Students pursuing this minor are advised to consult early and regularly with their academic advisors to ensure timely completion of the requirements.",8,8.5,9,9.5,6,10,10,9,9.5,8,10,10,9,9.5,7,0.23634753,0.586144849,0.393022787
+57,What concentrations are available for the MATH 1251 and MATH 1341 courses?,"The concentrations available for the MATH 1251 and MATH 1341 courses are Concentration in Conservation, Restoration, and Management.",simple,"The concentrations available for the MATH 1251 course are Algebra and Number Theory, Analysis, and Applied Mathematics. 
+
+The concentrations available for the MATH 1341 course are Algebra and Number Theory, Analysis, and Applied Mathematics.","The concentrations available for the MATH 1251 and MATH 1341 courses are not explicitly mentioned in the provided context information. To find specific concentrations related to these courses, students should consult the official Northeastern University course catalog or contact the Mathematics department directly for detailed information on concentrations associated with these courses.","The concentrations available for the MATH 1251 and MATH 1341 courses are:
+- Accounting
+- Accounting and Advisory Services
+- Brand Management
+- Business Analytics
+- Corporate Innovation
+- Entrepreneurial Startups
+- Family Business
+- Finance
+- Fintech
+- Healthcare Management and Consulting
+- International Business (available only as a second concentration)
+- Management
+- Management Information Systems
+- Marketing
+- Marketing Analytics
+- Social Innovation and Entrepreneurship
+- Supply Chain Management",3,2,3,7,6,6,4,5,7.5,4.5,2,0,2,6,3,0.466153846,0.364985994,0.377258988
+58,What is the purpose of the Computational Data Analytics minor offered by the Department of Electrical and Computer Engineering in the College of Engineering at Northeastern University?,The purpose of the Computational Data Analytics minor offered by the Department of Electrical and Computer Engineering in the College of Engineering at Northeastern University is to provide a coherent technical foundation in the fundamentals and application of data analytics.,reasoning,"The purpose of the Computational Data Analytics minor is to provide students with the skills and knowledge necessary to analyze and interpret large and complex datasets. This minor is designed to complement students' primary field of study by giving them a strong foundation in data analysis, machine learning, and statistical modeling. By completing this minor, students will be better equipped to work with data in a variety of industries and fields, including finance, healthcare, marketing, and more. Additionally, this minor can help students develop critical thinking and problem-solving skills that are essential in today's data-driven world.","The purpose of the Computational Data Analytics minor offered by the Department of Electrical and Computer Engineering in the College of Engineering at Northeastern University is to provide students with a coherent technical foundation in the fundamentals and application of data analytics. The minor aims to equip students with the skills to apply background in probability/statistics, calculus, engineering problem solving, computing, and analytical principles/tools to identify patterns and trends, find clusters and outliers, and characterize/summarize the vast amount of data being generated in the world. This program leverages faculty expertise in electrical and computer engineering and includes courses from across the College of Engineering, College of Science, and the Khoury College of Computer Sciences. Students are required to complete the program with at least three courses that are not part of their major required coursework.","The purpose of the Computational Data Analytics minor at Northeastern University is to provide students with a technical foundation in the fundamentals and application of data analytics. The minor aims to equip students with the skills to apply probability/statistics, calculus, engineering problem solving, computing, and analytical principles/tools to identify patterns and trends, find clusters and outliers, and characterize/summarize the vast amount of data being generated in today's world. The program leverages faculty expertise in electrical and computer engineering and includes courses from various departments across the College of Engineering, College of Science, and Khoury College of Computer Sciences. Students are required to complete the minor with at least three courses that are not part of their major required coursework.",9,8,8.5,9.5,7,10,10,10,9,7,9.5,9,9.5,9.5,7,0.240508323,0.443564862,0.365379974
+59,What is the address of the Plan's Administrator?,"The address of the Plan's Administrator is 716 Columbus Ave. Ste. 250, Boston, Massachusetts, 02120-2111.",multi-context,The address of the Plan's Administrator can vary depending on the specific plan and company. It is recommended to contact the plan administrator directly or refer to the plan documents for the most up-to-date and accurate address information.,"The address of the Plan's Administrator for the Northeastern University Retirement Plan is:
+716 Columbus Ave. Ste. 250
+Boston, Massachusetts 02120-2111","The address of the Plan's Administrator is:
+Northeastern University
+716 Columbus Ave. Ste. 250
+Boston, Massachusetts 02120-2111",4,3,4,7,6,10,10,10,10,9,9,10,9,9.5,8,0.255336617,0.829824561,0.923747277
+60,What is the educational background of H. David Sherman?,The educational background of H. David Sherman is a DBA from Harvard University.,simple,H. David Sherman received his Bachelor of Science degree in Chemistry from the University of Michigan in 1979. He then went on to earn his Ph.D. in Organic Chemistry from Stanford University in 1984.,"H. David Sherman is a Professor of Pharmaceutical Sciences at Northeastern University. He holds a Ph.D. from the University of California, Berkeley.",H. David Sherman is a Professor in Accounting at Northeastern University with a Doctor of Business Administration (DBA) degree from Harvard University.,3,0,5,7,6,6,3,5,7.5,6,10,10,9,9.5,8,0.195652174,0.374727669,0.483116883
+61,What are the prerequisites for the Supply Chain Management course?,"The prerequisites for the Supply Chain Management course are ECON 1115 Principles of Macroeconomics or ECON 1116 Principles of Microeconomics, and MATH 1231 Calculus for Business and Economics or MATH 1341 Calculus.",reasoning,"The prerequisites for a Supply Chain Management course may vary depending on the institution offering the course. However, common prerequisites may include:
+
+1. Basic knowledge of business concepts and principles
+2. Understanding of logistics and operations management
+3. Familiarity with inventory management and procurement processes
+4. Proficiency in using technology and software for data analysis and supply chain optimization
+5. Strong analytical and problem-solving skills
+6. Good communication and interpersonal skills
+7. Previous coursework in related fields such as business, economics, or engineering
+
+It is recommended to check with the specific institution or program offering the course for their specific prerequisites and requirements.","The prerequisites for the Supply Chain Management course are as follows:
+- SCHM 2301 with a minimum grade of D-","The prerequisites for the Supply Chain Management course are as follows:
+- SCHM 2301 with a minimum grade of D-",4,3,5,6.5,4,8,3,4,7.5,6,3,0,2,8,7,0.191615452,0.370281446,0.370281446
+62,What is the concentration in the MSME program in Mechanical Engineering?,The concentration in the MSME program in Mechanical Engineering is Mechanics and Design.,simple,"The concentration in the MSME program in Mechanical Engineering is typically focused on advanced topics in mechanical engineering, such as fluid mechanics, thermodynamics, materials science, robotics, and control systems. Students may also have the opportunity to specialize in areas such as aerospace engineering, automotive engineering, or renewable energy systems.","The concentration in the MSME program in Mechanical Engineering at Northeastern University includes options such as Materials Science, Mechanics and Design, Thermofluids, and General Mechanical Engineering.",The concentration in the MSME program in Mechanical Engineering is Materials Science.,8,5,6,7.5,5.5,8,7,8.5,8.5,7,10,3,5,9,8,0.358064516,0.59043659,0.794202899
+63,What course can be used to fulfill both the English and Diversity requirements?,"The course ""ENGL 2150 Literature and Digital Diversity"" can be used to fulfill both the English and Diversity requirements.",reasoning,"A course on African American literature or multicultural literature could potentially fulfill both the English and Diversity requirements. These courses typically explore literature written by authors from diverse backgrounds and perspectives, providing students with a deeper understanding of different cultures and experiences while also fulfilling the English requirement.","A course that can be used to fulfill both the English and Diversity requirements at Northeastern University is ""English and Cultural Anthropology."" This combined major course satisfies both the English requirement and the Engaging Differences and Diversity requirement.","A course that can be used to fulfill both the English and Diversity requirements is ""Linguistics and English, BA."" This course combines elements of linguistics and English studies, allowing students to fulfill both competencies within the NUpath requirements at Northeastern University.",6,5,6,7.5,6.5,7,4,5,8,6,5,3,5,7,6,0.270493685,0.437001595,0.403831418
+64,What is the purpose of the minor in environmental chemistry?,The purpose of the minor in environmental chemistry is to provide an opportunity for students of any background interested in environmental sciences to better understand the chemistry of the environment.,simple,"The purpose of a minor in environmental chemistry is to provide students with a foundational understanding of the chemical processes that occur in the environment, as well as the impact of human activities on these processes. This minor can help students develop the knowledge and skills necessary to address environmental challenges, such as pollution, climate change, and resource management. Additionally, a minor in environmental chemistry can complement a variety of majors, such as environmental science, chemistry, biology, or engineering, and enhance students' career prospects in fields related to environmental protection and sustainability.","The purpose of the minor in environmental chemistry is to offer students of any background interested in environmental sciences an opportunity to better understand the chemistry of the environment. This minor allows students to learn about the chemical processes of natural systems and environmental pollutants, providing them with a credential that highlights their interest and expertise in environmental chemistry. It can be a useful course of study for students pursuing degrees and careers in traditional chemical, environmental, engineering programs, or other allied fields.","The purpose of the minor in environmental chemistry is to provide students of any background interested in environmental sciences with an opportunity to better understand the chemistry of the environment. This minor allows students to learn about the chemical processes of natural systems and environmental pollutants, while earning a credential that highlights their interest and expertise in environmental chemistry. It can be a useful course of study for students pursuing degrees and careers in chemical, environmental, engineering programs, or other allied fields.",9.5,9,9.5,9,8,10,10,10,9.5,8,10,10,9,9.5,7,0.279781421,0.480533631,0.496861472
+65,What skills do students develop in the Bachelor of Arts program at Northeastern University?,"In the Bachelor of Arts program at Northeastern University, students develop skills in visual studies, creative practice, and understanding the relationship between form and meaning.",reasoning,"Students in the Bachelor of Arts program at Northeastern University develop a wide range of skills, including:
+
+1. Critical thinking: Students learn to analyze and evaluate information, arguments, and ideas from various perspectives.
+
+2. Communication: Students develop strong written and verbal communication skills, as well as the ability to effectively present their ideas to others.
+
+3. Research: Students learn how to conduct research using a variety of sources and methods, and how to critically evaluate and synthesize information.
+
+4. Problem-solving: Students develop the ability to identify and address complex problems, think creatively, and develop innovative solutions.
+
+5. Cultural competency: Students gain an understanding of diverse cultures, perspectives, and experiences, and learn to navigate and communicate effectively in multicultural environments.
+
+6. Collaboration: Students learn to work effectively in teams, communicate and collaborate with others, and leverage the strengths of different team members.
+
+7. Adaptability: Students develop the ability to adapt to new situations, challenges, and environments, and to learn and grow from their experiences.
+
+8. Ethical reasoning: Students learn to recognize and navigate ethical dilemmas, make ethical decisions, and act with integrity in their personal and professional lives.
+
+Overall, the Bachelor of Arts program at Northeastern University helps students develop a strong foundation of skills that are essential for success in a wide range of careers and fields.","In the Bachelor of Arts program at Northeastern University, students develop skills in visual studies, studio-based fine art practices, historical and theoretical interpretation of visual art, and the relationship between form and meaning. They also gain proficiency in drawing, painting, digital media, and critical analysis of visual art. Additionally, students have opportunities for immersive creative experiences abroad and exposure to various cultural contexts. The program emphasizes creativity, critical thinking, collaboration, and research in preparation for careers in design, publishing, curation, conservation, and scholarship.","In the Bachelor of Arts program at Northeastern University, students develop skills in the following areas:
+1. Fundamentals of program design, including object-oriented design
+2. Software development
+3. Computer organization
+4. Systems and networks
+5. Theory of computation
+6. Principles of languages
+7. Advanced algorithms and data analysis",6.5,5,7.5,8,4,9.5,9,9.5,9,7.5,2,2,2,6.5,4,0.120918213,0.405841836,0.39039039
+66,What is the focus of the combined major in History and Criminal Justice?,"The focus of the combined major in History and Criminal Justice is to educate students in both history and criminal justice, emphasizing the complementarity between these two disciplines.",simple,"The focus of the combined major in History and Criminal Justice is to provide students with a comprehensive understanding of the historical development of the criminal justice system and how it has evolved over time. This interdisciplinary program combines the study of historical events, trends, and movements with the study of criminal justice theory, policy, and practice. Students will learn about the historical roots of the criminal justice system, as well as how historical events have shaped contemporary issues in criminal justice. The goal of this combined major is to equip students with a broad understanding of the historical context of criminal justice, as well as the knowledge and skills needed to critically analyze and address current challenges in the field.","The combined major in History and Criminal Justice focuses on educating students in history and criminal justice, emphasizing the complementarity between these two disciplines. Students completing this program will be able to critically evaluate and draw connections between past and present practices in law, punishment, incarceration, justice, and the social institutions and cultural contexts in which these systems operate.","The combined major in History and Criminal Justice educates students in history and criminal justice, emphasizing the complementarity between these two disciplines. Students completing this program will be able to critically evaluate and draw connections between past and present practices in law, punishment, incarceration, justice, and the social institutions and cultural contexts in which these systems operate.",9,9,9.5,8.5,7,10,10,9,9.5,8,10,10,9.5,9.5,8,0.224505015,0.501510029,0.513394755
+67,What kind of courses can count as regional analysis courses?,Courses taken during a semester study abroad or specific Dialogue of Civilizations courses may count as regional analysis courses.,reasoning,"Some examples of courses that can count as regional analysis courses include:
+
+- Geography courses focusing on the physical and human geography of a specific region
+- Political science courses examining the political systems and dynamics of a particular region
+- Economics courses analyzing the economic development and trends of a specific region
+- History courses exploring the historical events and cultural heritage of a particular region
+- Environmental studies courses studying the environmental issues and sustainability challenges of a specific region
+- International relations courses examining the relationships and interactions between countries within a specific region
+- Urban planning courses focusing on the urban development and infrastructure of a particular region
+- Sociology courses investigating the social structures and demographics of a specific region.","Regional analysis courses can include a variety of courses focused on specific regions such as Africa, Asia, Europe, and Latin America. These courses cover topics related to the culture, history, politics, and development of the respective regions. Some examples of regional analysis courses include Introduction to African Studies, African History, Culture and Politics in Modern India, Latin American Society and Development, and European Empires, Revolutions, Wars, and Their Aftermath. Students can choose two regional analysis courses from the specified regions to fulfill this requirement.","Regional analysis courses can be fulfilled by completing two courses in one region from the provided lists. Additionally, courses taken during a semester study abroad or specific Dialogue of Civilizations courses may also count as regional analysis courses, pending approval from the international affairs head faculty adviser. It is recommended to consult with the department for additional courses that may fulfill this requirement.",9,7,9,8.5,5,8,6,8,7.5,6,9.5,9,9.5,9.5,7,0.108135792,0.129706175,0.450609756
+68,What is the credit requirement for the Spanish major at Northeastern University?,The credit requirement for the Spanish major at Northeastern University is to complete 56 semester hours in the major.,reasoning,The credit requirement for the Spanish major at Northeastern University is 32 credit hours.,The credit requirement for the Spanish major at Northeastern University is to complete 56 semester hours in the major.,The credit requirement for the Spanish major at Northeastern University is 56 semester hours.,10,2,4,9,8,10,10,10,10,10,10,10,10,10,10,0.699902248,1,0.823721082
