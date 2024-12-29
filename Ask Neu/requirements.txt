@@ -1,0 +1,12 @@
+llama-index==0.10.0
+huggingface-hub>=0.19.0
+pinecone-client>=3.0.0
+openai>=1.0.0
+torch>=2.0.0
+PyStemmer>=2.2.0
+ipython>=8.0.0
+pandas>=2.0.0
+langchain>=0.1.0
+tqdm>=4.65.0
+nest-asyncio>=1.5.6
+rouge-score>=0.1.2
