@@ -1,6 +1,5 @@
 # AskNEU: Your AI Campus Companion
 
-## Overview
 AskNEU is a conversational Retrieval-Augmented Generation (RAG)  designed to provide Q&A functionality based on Northeastern University website data. By leveraging RAG techniques combined with GPT-based language models, the application enables users to ask questions and receive contextually accurate answers derived from university information.
 
 ## Data
@@ -33,8 +32,8 @@ Key sources include:
 
 - **LLM Integration:**
   - One LLM rephrases queries to make them self-contained.
-  - Another LLM generates final answers based on the rephrased queries and retrieved context.## Technical Details
-  - 
+  - Another LLM generates final answers based on the rephrased queries and retrieved context.
+    
 - **Hydrid Retreival** Hybrid retriever combines multiple retrieval techniques, typically integrating both semantic search (vector-based) and lexical search (keyword-based), to maximize the relevance and 
   accuracy of retrieved information
   
