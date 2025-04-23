@@ -1,5 +1,5 @@
-# AskNEU: Your AI Campus Companion   
-Try it out : https://askneu-base.streamlit.app/
+# Protoype for AskNEU
+Try final product here : https://tinyurl.com/askneu
 
 AskNEU is a conversational Retrieval-Augmented Generation (RAG)  designed to provide Q&A functionality based on Northeastern University website data. By leveraging RAG techniques combined with GPT-based language models, the application enables users to ask questions and receive contextually accurate answers derived from university information.
 
