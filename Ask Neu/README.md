@@ -1,6 +1,13 @@
 # Protoype for AskNEU
 Try final product here : https://tinyurl.com/askneu
 
+If the site is down, it may be undergoing updates or maintenance. Please check back in a little while.
+
+https://github.com/user-attachments/assets/defbaf2f-3b0b-4eae-a40a-30f530586101
+
+
+
+
 AskNEU is a conversational Retrieval-Augmented Generation (RAG)  designed to provide Q&A functionality based on Northeastern University website data. By leveraging RAG techniques combined with GPT-based language models, the application enables users to ask questions and receive contextually accurate answers derived from university information.
 
 ## Data
