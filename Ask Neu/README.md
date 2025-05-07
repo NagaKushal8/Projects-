@@ -1,5 +1,5 @@
 # Protoype for AskNEU
-Try final product here : https://tinyurl.com/askneu
+Try final product here : http://chat.askneu.com/
 
 If the site is down, it may be undergoing updates or maintenance. Please check back in a little while.
 
