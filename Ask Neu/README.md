@@ -1,5 +1,6 @@
 # Protoype for AskNEU
 Try final product here : https://askneu.com/
+Technical Breakdown : https://drive.google.com/file/d/1-MkJ1w56oQ56rsKOPjB9l2fk9EhrPkGX/view
 
 If the site is down, it may be undergoing updates or maintenance. Please check back in a little while.
 
