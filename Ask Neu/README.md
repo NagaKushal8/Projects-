@@ -1,15 +1,34 @@
-# Protoype for AskNEU
-Try final product here : https://askneu.com/
+# Protoype for askNEU
+This is the prototype model of askNEU . 
+
+### Final product has been released , check it out below !   
+
+Try it here : https://askneu.com/
+
+(If the site is down, it may be undergoing updates or maintenance. Please check back in a little while)
+
 Technical Breakdown : https://drive.google.com/file/d/1-MkJ1w56oQ56rsKOPjB9l2fk9EhrPkGX/view
 
-If the site is down, it may be undergoing updates or maintenance. Please check back in a little while.
+Key Features : 
 
-https://github.com/user-attachments/assets/defbaf2f-3b0b-4eae-a40a-30f530586101
+• 𝐒𝐞𝐚𝐫𝐜𝐡 𝐚𝐜𝐫𝐨𝐬𝐬 𝟏𝟎𝟎+ 𝐍ortheastern University 𝐰𝐞𝐛𝐬𝐢𝐭𝐞𝐬, 𝟐𝟎,𝟎𝟎𝟎+ 𝐰𝐞𝐛 𝐩𝐚𝐠𝐞𝐬, 𝐚𝐧𝐝 𝟐,𝟎𝟎𝟎+ 𝐏𝐃𝐅𝐬
 
 
+• 𝐀𝐜𝐜𝐞𝐬𝐬 𝐝𝐞𝐞𝐩 𝐬𝐞𝐚𝐫𝐜𝐡 powered by AI Agents 𝐟𝐨𝐫 𝐜𝐨𝐦𝐩𝐥𝐞𝐱 𝐪𝐮𝐞𝐫𝐢𝐞𝐬 𝐭𝐡𝐚𝐭 𝐬𝐩𝐚𝐧 𝐦𝐮𝐥𝐭𝐢𝐩𝐥𝐞 𝐬𝐨𝐮𝐫𝐜𝐞𝐬
 
+
+• 𝐅𝐢𝐧𝐝 𝐬𝐭𝐮𝐝𝐲 𝐬𝐩𝐚𝐜𝐞𝐬 𝐢𝐧 𝐮𝐧𝐨𝐜𝐜𝐮𝐩𝐢𝐞𝐝 𝐜𝐥𝐚𝐬𝐬𝐫𝐨𝐨𝐦𝐬
+
+
+• 𝐐𝐮𝐞𝐫𝐲 𝐜𝐨𝐮𝐫𝐬𝐞 𝐨𝐟𝐟𝐞𝐫𝐢𝐧𝐠𝐬 𝐮𝐬𝐢𝐧𝐠 𝐧𝐚𝐭𝐮𝐫𝐚𝐥 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞
+
+
+https://github.com/user-attachments/assets/28d26136-0b5e-44cd-a34d-17e2b3ad5f82
+
+## Prototype
 
 AskNEU is a conversational Retrieval-Augmented Generation (RAG)  designed to provide Q&A functionality based on Northeastern University website data. By leveraging RAG techniques combined with GPT-based language models, the application enables users to ask questions and receive contextually accurate answers derived from university information.
+
 
 ## Data
 
@@ -96,3 +115,5 @@ askneu/
 ```
 
 Feel free to explore, contribute, and improve AskNEU to make university data more accessible and insightful!
+
+
